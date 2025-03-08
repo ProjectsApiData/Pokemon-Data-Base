@@ -1,0 +1,352 @@
+[
+    {
+        "serial number":"01",
+        "imgURL":"https://i.ibb.co/tMS3JB6k/image.png",
+        "name":"Bulbasaur",
+        "generation":"01",
+        "type":["Grass","Poison"]
+    },
+    {
+        "serial number":"04",
+        "imgURL":"https://i.ibb.co/BVD6fJgJ/image.png",
+        "name":"Charmander",
+        "generation":"01",
+        "type":["Fire"]
+    },
+    {
+        "serial number":"07",
+        "imgURL":"https://i.ibb.co/h1JVqP55/image.png",
+        "name":"Squirtle",
+        "generation":"01",
+        "type":["water"]
+    },
+    {
+        "serial number":"12",
+        "imgURL":"https://i.ibb.co/Z6THX95p/image.png",
+        "name":"Butterfree",
+        "generation":"01",
+        "type":["Bug","Flying"]
+    },
+    {
+        "serial number":"15",
+        "imgURL":"https://i.ibb.co/x81sG2Lk/image.png",
+        "name":"Beedrill",
+        "generation":"01",
+        "type":["Bug","Poison"]
+    },
+    {
+        "serial number":"24",
+        "imgURL":"https://i.ibb.co/5g9c95d5/image.png",
+        "name":"Arbok",
+        "generation":"01",
+        "type":["Poison"]
+    },
+    {
+        "serial number":"44",
+        "imgURL":"https://i.ibb.co/7tgsJP8r/image.png",
+        "name":"Gloom",
+        "generation":"01",
+        "type":["Grass","Poison"]
+    },
+    {
+        "serial number":"52",
+        "imgURL":"https://i.ibb.co/nsrsxrK3/image.png",
+        "name":"Meowth",
+        "generation":"01",
+        "type":["Normal"]
+    },
+    {
+        "serial number":"56",
+        "imgURL":"https://i.ibb.co/JW52VH20/image.png",
+        "name":"Mankey",
+        "generation":"01",
+        "type":["Fighting"]
+    },
+    {
+        "serial number":"63",
+        "imgURL":"https://i.ibb.co/67tmSvsm/image.png",
+        "name":"Abra",
+        "generation":"01",
+        "type":["Psychic"]
+    },
+    {
+        "serial number":"66",
+        "imgURL":"https://i.ibb.co/xSKxDvdv/image.png",
+        "name":"machop",
+        "generation":"01",
+        "type":["fighting"]
+    },
+    {
+        "serial number":"69",
+        "imgURL":"https://i.ibb.co/tMZXVTbT/image.png",
+        "name":"bellsprout",
+        "generation":"01",
+        "type":["poison"]
+    },
+    {
+        "serial number":"95",
+        "imgURL":"https://i.ibb.co/jv845s0L/image.png",
+        "name":"onix",
+        "generation":"01",
+        "type":["ground"]
+    },
+    {
+        "serial number":"111",
+        "imgURL":"https://i.ibb.co/1G8K12Xp/image.png",
+        "name":"Rhyhorn",
+        "generation":"01",
+        "type":["Rock","Ground"]
+    },
+    {
+        "serial number":"115",
+        "imgURL":"https://i.ibb.co/kgd8L4r7/image.png",
+        "name":"kangaskhan",
+        "generation":"01",
+        "type":["normal"]
+    },
+    {
+        "serial number":"122",
+        "imgURL":"https://i.ibb.co/jkGtS8ST/image.png",
+        "name":"mr. mine",
+        "generation":"01",
+        "type":["psychic","fairy"]
+    },
+    {
+        "serial number":"123",
+        "imgURL":"https://i.ibb.co/Lz4fpjYG/image.png",
+        "name":"scyther",
+        "generation":"01",
+        "type":["bug","flying"]
+    },
+    {
+        "serial number":"128",
+        "imgURL":"https://i.ibb.co/M58dkDf1/image.png",
+        "name":"tauros",
+        "generation":"01",
+        "type":["normal"]
+    },
+    {
+        "serial number":"131",
+        "imgURL":"https://i.ibb.co/99z9RJxd/image.png",
+        "name":"lapress",
+        "generation":"01",
+        "type":["water","ice"]
+    },
+    {
+        "serial number":"142",
+        "imgURL":"https://i.ibb.co/LHhZ7Tv/image.png",
+        "name":"aerodactyl",
+        "generation":"01",
+        "type":["Rock","flying"]
+    },
+    {
+        "serial number":"143",
+        "imgURL":"https://i.ibb.co/zTqnt8St/image.png",
+        "name":"snorlax",
+        "generation":"01",
+        "type":["normal"]
+    },
+    {
+        "serial number":"144",
+        "imgURL":"https://i.ibb.co/pj8HZcnG/image.png",
+        "name":"articuno",
+        "generation":"01",
+        "type":["ice","flying"]
+    },
+    {
+        "serial number":"145",
+        "imgURL":"https://i.ibb.co/ccpp8Qrf/image.png",
+        "name":"Zapdos",
+        "generation":"01",
+        "type":["Electrics","flying"]
+    },
+    {
+        "serial number":"146",
+        "imgURL":"https://i.ibb.co/nsgD5nYg/image.png",
+        "name":"moltres",
+        "generation":"01",
+        "type":["fire","flying"]
+    },
+    {
+        "serial number":"150",
+        "imgURL":"https://i.ibb.co/99stG2fm/image.png",
+        "name":"mewtwo",
+        "generation":"02",
+        "type":["psychic"]
+    },
+    {
+        "serial number":"151",
+        "imgURL":"https://i.ibb.co/DHhRBchT/image.png",
+        "name":"mew",
+        "generation":"02",
+        "type":["psychic"]
+    },
+    {
+        "serial number":"152",
+        "imgURL":"https://i.ibb.co/21WwyBMk/image.png",
+        "name":"chikorita",
+        "generation":"02",
+        "type":["grass"]
+    },
+    {
+        "serial number":"155",
+        "imgURL":"https://i.ibb.co/B5kQ93jq/image.png",
+        "name":"cyndaquil",
+        "generation":"02",
+        "type":["fire"]
+    },
+    {
+        "serial number":"158",
+        "imgURL":"https://i.ibb.co/ZzHWN0pb/image.png",
+        "name":"totodile",
+        "generation":"02",
+        "type":["water"]
+    },
+    {
+        "serial number":"164",
+        "imgURL":"https://i.ibb.co/Xk57JZr1/image.png",
+        "name":"Noctowl",
+        "generation":"02",
+        "type":["normal","flying"]
+    },
+    {
+        "serial number":"192",
+        "imgURL":"https://i.ibb.co/fGKTb44P/image.png",
+        "name":"sunflora",
+        "generation":"02",
+        "type":["grass"]
+    },
+    {
+        "serial number":"214",
+        "imgURL":"https://i.ibb.co/F4cGmpMX/image.png",
+        "name":"herecross",
+        "generation":"02",
+        "type":["bug","fighting"]
+    },
+    {
+        "serial number":"243",
+        "imgURL":"https://i.ibb.co/cS9vJHMK/image.png",
+        "name":"Raikou",
+        "generation":"02",
+        "type":["Electric"]
+    },
+    {
+        "serial number":"244",
+        "imgURL":"https://i.ibb.co/ZR5NjmZD/image.png",
+        "name":"Entei",
+        "generation":"02",
+        "type":["Fire"]
+    },
+    {
+        "serial number":"245",
+        "imgURL":"https://i.ibb.co/1J8XBPMR/image.png",
+        "name":"Suicune",
+        "generation":"02",
+        "type":["Water"]
+    },
+    {
+        "serial number":"251",
+        "imgURL":"https://i.ibb.co/0ySPZhTk/image.png",
+        "name":"Celebi",
+        "generation":"02",
+        "type":["Psychic","Grass"]
+    },
+    {
+        "serial number":"250",
+        "imgURL":"https://i.ibb.co/pjSpq3sL/image.png",
+        "name":"Ho-oh",
+        "generation":"02",
+        "type":["Fire","Flying"]
+    },
+    {
+        "serial number":"336",
+        "imgURL":"https://i.ibb.co/KcTysk7J/image.png",
+        "name":"Seviper",
+        "generation":"03",
+        "type":["Poison"]
+    },
+    {
+        "serial number":"359",
+        "imgURL":"https://i.ibb.co/Q3cT2gw7/image.png",
+        "name":"Absol",
+        "generation":"03",
+        "type":["Dark"]
+    },
+    {
+        "serial number":"357",
+        "imgURL":"https://i.ibb.co/Kz3NqVyd/image.png",
+        "name":"Tropius",
+        "generation":"03",
+        "type":["Grass","Flying"]
+    },
+    {
+        "serial number":"377",
+        "imgURL":"https://i.ibb.co/mrsxzrm3/image.png",
+        "name":"Regirock",
+        "generation":"03",
+        "type":["Rock"]
+    },
+    {
+        "serial number":"378",
+        "imgURL":"https://i.ibb.co/XxTrXHt1/image.png",
+        "name":"Regice",
+        "generation":"03",
+        "type":["Ice"]
+    },
+    {
+        "serial number":"379",
+        "imgURL":"https://i.ibb.co/prv6zgfR/image.png",
+        "name":"Registeel",
+        "generation":"03",
+        "type":["Steel"]
+    },
+    {
+        "serial number":"380",
+        "imgURL":"https://i.ibb.co/XZ8HX6qQ/image.png",
+        "name":"Latias",
+        "generation":"03",
+        "type":["Dragon","Psychic"]
+    },
+    {
+        "serial number":"381",
+        "imgURL":"https://i.ibb.co/99thZmjh/image.png",
+        "name":"Latios",
+        "generation":"03",
+        "type":["Dragon","Psychic"]
+    },
+    {
+        "serial number":"382",
+        "imgURL":"https://i.ibb.co/SwgHDzPM/image.png",
+        "name":"Kyogre",
+        "generation":"03",
+        "type":["Water"]
+    },
+    {
+        "serial number":"383",
+        "imgURL":"https://i.ibb.co/chtnYpy8/image.png",
+        "name":"Groudon",
+        "generation":"03",
+        "type":["Ground"]
+    },
+    {
+        "serial number":"384",
+        "imgURL":"https://i.ibb.co/v6CYtf1n/image.png",
+        "name":"Rayquaza",
+        "generation":"03",
+        "type":["Dragon","Flying"]
+    },
+    {
+        "serial number":"385",
+        "imgURL":"https://i.ibb.co/ymXdTkSy/image.png",
+        "name":"Jirachi",
+        "generation":"03",
+        "type":["Steel","Psychic"]
+    },
+    {
+        "serial number":"386",
+        "imgURL":"https://i.ibb.co/tPCbtJWB/image.png",
+        "name":"Deoxys",
+        "generation":"03",
+        "type":["Psychic"]
+    }
+]
