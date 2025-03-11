@@ -202,7 +202,7 @@
         "imgURL":"https://i.ibb.co/ccpp8Qrf/image.png",
         "name":"zapdos",
         "generation":1,
-        "type":["electrics","flying"],
+        "type":["electric","flying"],
         "legendary":true,
         "shiny":false
     },
@@ -292,7 +292,7 @@
         "imgURL":"https://i.ibb.co/cS9vJHMK/image.png",
         "name":"raikou",
         "generation":2,
-        "type":["Electric"],
+        "type":["electric"],
         "legendary":true,
         "shiny":false
     },
@@ -346,7 +346,7 @@
         "imgURL":"https://i.ibb.co/Q3cT2gw7/image.png",
         "name":"absol",
         "generation":3,
-        "type":["Dark"],
+        "type":["dark"],
         "legendary":false,
         "shiny":false
     },
