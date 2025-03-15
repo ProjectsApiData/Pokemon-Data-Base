@@ -1,4 +1,5 @@
-    {
+{
+   "charizard": {
         "textContent":[
             {
                 "text":"Charizard is a large dragon-like Pokémon, mainly orange in color. It has two large wings, the underside of which are turquoise. Like Charmander and Charmeleon, it has a flame at the end of its tail."
@@ -197,3 +198,4 @@
             "growth_rate": "Medium Slow"
         }
     }
+}
