@@ -1,0 +1,201 @@
+[
+    {
+        "textContent":[
+            {
+                "text":"Charizard is a large dragon-like Pokémon, mainly orange in color. It has two large wings, the underside of which are turquoise. Like Charmander and Charmeleon, it has a flame at the end of its tail."
+            },
+            {
+                "text":"Charizard is notable for being the final evolution stage of one of the original starter Pokémon, along with Venusaur and Blastoise. Although it looks like a dragon, it doesn't have the Dragon typing. However it has two Mega Evolutions, available in Generation 6 games and Pokémon Go, one of which replaces its Flying type with Dragon. Charizard also has a Gigantamax form available in Pokémon Sword/Shield, with an exclusive G-Max move, G-Max Wildfire."
+            }
+        ],
+        "megaEvolution":["mega charizard-x", "mega charizad-y"],
+        "pokedex_data":{
+            "name":"charizard",
+            "serial_number":6,
+            "types":["fire","flying"],
+            "species":"flame pokemon",
+            "height":{
+                "in_cm":170,
+                "in_meter":"1.7m",
+                "in_foot":"5'07\""
+            },
+            "weight":{
+                "in_kg":90.5,
+                "in_lbs":199.5
+            },
+            "abilities":["blaze","overheat"]
+        },
+        "base_stats":{
+            "hp":{
+                "normal":80,
+                "minimum":266,
+                "maximum":360
+            },
+            "attack":{
+                "normal":84,
+                "minimum":155,
+                "maximum":293
+            },
+            "defense":{
+                "normal":78,
+                "minimum":145,
+                "maximum":280
+            },
+            "sp_atk":{
+                "normal":109,
+                "minimum":200,
+                "maximum":348
+            },
+            "sp_def":{
+                "normal":85,
+                "minimum":157,
+                "maximum":295
+            },
+            "speed":{
+                "normal":100,
+                "minimum":186,
+                "maximum":338
+            }
+        },
+        "attacks":[
+            {
+                "ember":{
+                    "type":"file",
+                    "icon":"",
+                    "power":40,
+                    "accuracy":100
+                }
+            },
+            {
+                "growl":{
+                    "type":"normal",
+                    "icon":"",
+                    "power":"",
+                    "accuracy":100
+                }
+            },
+            {
+                "scratch":{
+                    "type":"normal",
+                    "icon":"",
+                    "power":43,
+                    "accuracy":100
+                }
+            },
+            {
+                "flamethrower":{
+                    "type":"fire",
+                    "icon":"",
+                    "power":95,
+                    "accuracy":100
+                }
+            },
+            {
+                "fire spin":{
+                    "type":"fire",
+                    "icon":"",
+                    "power":25,
+                    "accuracy":70
+                }
+            },
+            {
+                "hear wave":{
+                    "type":"fire",
+                    "icon":"",
+                    "power":64,
+                    "accuracy":100
+                }
+            },
+            {
+                "fire blast":{
+                    "type":"fire",
+                    "icon":"",
+                    "power":160,
+                    "accuracy":90
+                }
+            },
+            {
+                "wing attack":{
+                    "type":"fling",
+                    "icon":"",
+                    "power":73,
+                    "accuracy":95
+                }
+            },
+            {
+                "dragon claw":{
+                    "type":"dragon",
+                    "icon":"",
+                    "power":94,
+                    "accuracy":95
+                }
+            },
+            {
+                "seismic toss":{
+                    "type":"fighting",
+                    "icon":"",
+                    "power":130,
+                    "accuracy":70
+                }
+            },
+            {
+                "dragon tail":{
+                    "type":"dragon",
+                    "icon":"",
+                    "power":80,
+                    "accuracy":100
+                }
+            },
+            {
+                "iron tail":{
+                    "type":"steel",
+                    "icon":"",
+                    "power":100,
+                    "accuracy":100
+                }
+            },
+            {
+                "dragon rage":{
+                    "type":"dragon",
+                    "icon":"",
+                    "power":110,
+                    "accuracy":100
+                }
+            }
+        ],
+        "evolution_chart":{
+            "evolution_levels":[16,36],
+            "evolutionary_line": {
+                "charmander":{
+                    "stage":1,
+                    "serial number":56,
+                    "imgURL":"https://i.ibb.co/JW52VH20/image.png",
+                    "type":["fire"]
+                },
+                "charmeleon":{
+                    "stage":2,
+                    "serial number":56,
+                    "imgURL":"https://i.ibb.co/JW52VH20/image.png",
+                    "type":["fire"]
+                },
+                "charizad":{
+                    "stage":3,
+                    "serial number":56,
+                    "imgURL":"https://i.ibb.co/JW52VH20/image.png",
+                    "type":["fire","flying"]
+                }
+            }
+        },
+        "name_origin": {
+            "char": "to burn or singe",
+            "lizard": "a reptile"
+        },
+        "training": {
+            "catch_rate": 45,
+            "catch_rate_percentage": "5.9% with PokéBall, full HP",
+            "base_friendship": 50,
+            "base_exp": 267,
+            "growth_rate": "Medium Slow"
+        }
+    }
+]
