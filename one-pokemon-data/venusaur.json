@@ -1,4 +1,5 @@
-"venasaur":{
+{ 
+  "venasaur":{
     "textContent": [
         {
             "text": "Venusaur is a large, dinosaur-like Pokémon, mainly green in color with a plant bulb on its back. Over time, the bulb blooms into a large flower. Venusaur is a Grass/Poison-type Pokémon."
@@ -172,4 +173,5 @@
         "base_exp": 265,
         "growth_rate": "Medium Slow"
     }
+}
 }
