@@ -1,0 +1,175 @@
+  {
+    "textContent": [
+        {
+            "text": "Venusaur is a large, dinosaur-like Pokémon, mainly green in color with a plant bulb on its back. Over time, the bulb blooms into a large flower. Venusaur is a Grass/Poison-type Pokémon."
+        },
+        {
+            "text": "Venusaur is the final evolution stage of one of the original starter Pokémon, along with Charizard and Blastoise. It has access to powerful Grass and Poison-type moves. Venusaur also has a Mega Evolution available in Generation 6 games and Pokémon Go."
+        }
+    ],
+    "megaEvolution": ["mega venusaur"],
+    "pokedex_data": {
+        "name": "venusaur",
+        "serial_number": 3,
+        "types": ["grass", "poison"],
+        "species": "seed pokemon",
+        "height": {
+            "in_cm": 200,
+            "in_meter": "2.0m",
+            "in_foot": "6'07\""
+        },
+        "weight": {
+            "in_kg": 100,
+            "in_lbs": 220.5
+        },
+        "abilities": ["overgrow", "chlorophyll"]
+    },
+    "base_stats": {
+        "hp": {
+            "normal": 80,
+            "minimum": 266,
+            "maximum": 360
+        },
+        "attack": {
+            "normal": 82,
+            "minimum": 152,
+            "maximum": 290
+        },
+        "defense": {
+            "normal": 83,
+            "minimum": 155,
+            "maximum": 295
+        },
+        "sp_atk": {
+            "normal": 100,
+            "minimum": 180,
+            "maximum": 338
+        },
+        "sp_def": {
+            "normal": 100,
+            "minimum": 185,
+            "maximum": 330
+        },
+        "speed": {
+            "normal": 80,
+            "minimum": 150,
+            "maximum": 290
+        }
+    },
+    "attacks": [
+        {
+            "tackle": {
+                "type": "normal",
+                "icon": "",
+                "power": 40,
+                "accuracy": 100
+            }
+        },
+        {
+            "growl": {
+                "type": "normal",
+                "icon": "",
+                "power": "",
+                "accuracy": 100
+            }
+        },
+        {
+            "vine whip": {
+                "type": "grass",
+                "icon": "",
+                "power": 45,
+                "accuracy": 100
+            }
+        },
+        {
+            "leech seed": {
+                "type": "grass",
+                "icon": "",
+                "power": "",
+                "accuracy": 90
+            }
+        },
+        {
+            "razor leaf": {
+                "type": "grass",
+                "icon": "",
+                "power": 55,
+                "accuracy": 95
+            }
+        },
+        {
+            "sweet scent": {
+                "type": "normal",
+                "icon": "",
+                "power": "",
+                "accuracy": 100
+            }
+        },
+        {
+            "solarbeam": {
+                "type": "grass",
+                "icon": "",
+                "power": 120,
+                "accuracy": 100
+            }
+        },
+        {
+            "poison powder": {
+                "type": "poison",
+                "icon": "",
+                "power": "",
+                "accuracy": 75
+            }
+        },
+        {
+            "sludge bomb": {
+                "type": "poison",
+                "icon": "",
+                "power": 90,
+                "accuracy": 100
+            }
+        },
+        {
+            "earthquake": {
+                "type": "ground",
+                "icon": "",
+                "power": 100,
+                "accuracy": 100
+            }
+        }
+    ],
+    "evolution_chart": {
+        "evolution_levels": [16, 32],
+        "evolutionary_line": {
+            "bulbasaur": {
+                "stage": 1,
+                "serial_number": 1,
+                "imgURL": "https://i.ibb.co/ZYW3VTp/image.png",
+                "type": ["grass", "poison"]
+            },
+            "ivysaur": {
+                "stage": 2,
+                "serial_number": 2,
+                "imgURL": "https://i.ibb.co/ZYW3VTp/image.png",
+                "type": ["grass", "poison"]
+            },
+            "venusaur": {
+                "stage": 3,
+                "serial_number": 3,
+                "imgURL": "https://i.ibb.co/ZYW3VTp/image.png",
+                "type": ["grass", "poison"]
+            }
+        }
+    },
+    "name_origin": {
+        "venus": "goddess of love and beauty",
+        "saur": "lizard"
+    },
+    "training": {
+        "catch_rate": 45,
+        "catch_rate_percentage": "5.9% with PokéBall, full HP",
+        "base_friendship": 50,
+        "base_exp": 265,
+        "growth_rate": "Medium Slow"
+    }
+}
