@@ -1,0 +1,177 @@
+{
+   "butterfree": {
+        "textContent": [
+            {
+                "text": "Butterfree is a butterfly-like Pokémon, primarily purple with large, translucent wings that have blue markings. It evolves from Metapod and is known for its swift flight and powerful attacks that can confuse and paralyze its opponents."
+            },
+            {
+                "text": "Butterfree is the final evolution of the original Pokémon's Bug-type line. It has a gentle appearance but can be quite powerful in battle with access to moves like Bug Buzz and Sleep Powder. In the Pokémon anime, it is often shown as a loyal and loving companion to its trainer."
+            }
+        ],
+        "megaEvolution": ["mega butterfree"],
+        "pokedex_data": {
+            "name": "butterfree",
+            "serial_number": 12,
+            "types": ["bug", "flying"],
+            "species": "butterfly Pokémon",
+            "height": {
+                "in_cm": 100,
+                "in_meter": "1.0m",
+                "in_foot": "3'03\""
+            },
+            "weight": {
+                "in_kg": 32,
+                "in_lbs": 70.5
+            },
+            "abilities": ["compoundeyes", "tinted lens"]
+        },
+        "base_stats": {
+            "hp": {
+                "normal": 60,
+                "minimum": 204,
+                "maximum": 292
+            },
+            "attack": {
+                "normal": 45,
+                "minimum": 85,
+                "maximum": 185
+            },
+            "defense": {
+                "normal": 50,
+                "minimum": 94,
+                "maximum": 200
+            },
+            "sp_atk": {
+                "normal": 90,
+                "minimum": 160,
+                "maximum": 270
+            },
+            "sp_def": {
+                "normal": 80,
+                "minimum": 150,
+                "maximum": 260
+            },
+            "speed": {
+                "normal": 70,
+                "minimum": 130,
+                "maximum": 210
+            }
+        },
+        "attacks": [
+            {
+                "tackle": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": 40,
+                    "accuracy": 100
+                }
+            },
+            {
+                "string shot": {
+                    "type": "bug",
+                    "icon": "",
+                    "power": 20,
+                    "accuracy": 100
+                }
+            },
+            {
+                "confusion": {
+                    "type": "psychic",
+                    "icon": "",
+                    "power": 50,
+                    "accuracy": 100
+                }
+            },
+            {
+                "sleep powder": {
+                    "type": "bug",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 75
+                }
+            },
+            {
+                "stun spore": {
+                    "type": "grass",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 75
+                }
+            },
+            {
+                "bug bite": {
+                    "type": "bug",
+                    "icon": "",
+                    "power": 60,
+                    "accuracy": 100
+                }
+            },
+            {
+                "bug buzz": {
+                    "type": "bug",
+                    "icon": "",
+                    "power": 90,
+                    "accuracy": 100
+                }
+            },
+            {
+                "air slash": {
+                    "type": "flying",
+                    "icon": "",
+                    "power": 75,
+                    "accuracy": 95
+                }
+            },
+            {
+                "hurricane": {
+                    "type": "flying",
+                    "icon": "",
+                    "power": 110,
+                    "accuracy": 70
+                }
+            },
+            {
+                "quiver dance": {
+                    "type": "bug",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 100
+                }
+            }
+        ],
+        "evolution_chart": {
+            "evolution_levels": [10, 20],
+            "evolutionary_line": {
+                "caterpie": {
+                    "stage": 1,
+                    "serial_number": 10,
+                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "type": ["bug"]
+                },
+                "metapod": {
+                    "stage": 2,
+                    "serial_number": 11,
+                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "type": ["bug"]
+                },
+                "butterfree": {
+                    "stage": 3,
+                    "serial_number": 12,
+                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "type": ["bug", "flying"]
+                }
+            }
+        },
+        "name_origin": {
+            "butter": "from butterfly",
+            "free": "suggesting freedom or flight"
+        },
+        "training": {
+            "catch_rate": 45,
+            "catch_rate_percentage": "5.9% with PokéBall, full HP",
+            "base_friendship": 50,
+            "base_exp": 250,
+            "growth_rate": "Medium Fast"
+        }
+    }
+}
