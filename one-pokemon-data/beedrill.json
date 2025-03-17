@@ -1,0 +1,177 @@
+{
+   "beedrill": {
+        "textContent": [
+            {
+                "text": "Beedrill is an insectoid Pokémon that resembles a large wasp. It has a yellow and black striped body, large wings, and sharp stingers on both its forelegs and its tail. Beedrill is known for its speed and aggression, often attacking any intruders that come near its nest."
+            },
+            {
+                "text": "Beedrill is the final evolution of Weedle and is a dual-type Bug/Poison Pokémon. It evolves from Kakuna at level 10. Beedrill is notable for its Mega Evolution, which makes it much more powerful in combat, with improved stats and a heightened ability to deal damage."
+            }
+        ],
+        "megaEvolution": ["mega beedrill"],
+        "pokedex_data": {
+            "name": "beedrill",
+            "serial_number": 15,
+            "types": ["bug", "poison"],
+            "species": "poison bee Pokémon",
+            "height": {
+                "in_cm": 100,
+                "in_meter": "1.0m",
+                "in_foot": "3'03\""
+            },
+            "weight": {
+                "in_kg": 29.5,
+                "in_lbs": 65
+            },
+            "abilities": ["swarm", "sniper"]
+        },
+        "base_stats": {
+            "hp": {
+                "normal": 65,
+                "minimum": 185,
+                "maximum": 279
+            },
+            "attack": {
+                "normal": 90,
+                "minimum": 166,
+                "maximum": 306
+            },
+            "defense": {
+                "normal": 40,
+                "minimum": 76,
+                "maximum": 164
+            },
+            "sp_atk": {
+                "normal": 45,
+                "minimum": 85,
+                "maximum": 175
+            },
+            "sp_def": {
+                "normal": 80,
+                "minimum": 148,
+                "maximum": 280
+            },
+            "speed": {
+                "normal": 75,
+                "minimum": 139,
+                "maximum": 271
+            }
+        },
+        "attacks": [
+            {
+                "poison sting": {
+                    "type": "poison",
+                    "icon": "",
+                    "power": 15,
+                    "accuracy": 100
+                }
+            },
+            {
+                "string shot": {
+                    "type": "bug",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 95
+                }
+            },
+            {
+                "tackle": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": 40,
+                    "accuracy": 100
+                }
+            },
+            {
+                "focus energy": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 100
+                }
+            },
+            {
+                "bug bite": {
+                    "type": "bug",
+                    "icon": "",
+                    "power": 60,
+                    "accuracy": 100
+                }
+            },
+            {
+                "fury attack": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": 15,
+                    "accuracy": 85
+                }
+            },
+            {
+                "twineedle": {
+                    "type": "bug",
+                    "icon": "",
+                    "power": 25,
+                    "accuracy": 100
+                }
+            },
+            {
+                "toxic spikes": {
+                    "type": "poison",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 100
+                }
+            },
+            {
+                "venom drench": {
+                    "type": "poison",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 100
+                }
+            },
+            {
+                "hyper beam": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": 150,
+                    "accuracy": 90
+                }
+            }
+        ],
+        "evolution_chart": {
+            "evolution_levels": [10],
+            "evolutionary_line": {
+                "weedle": {
+                    "stage": 1,
+                    "serial_number": 13,
+                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "type": ["bug", "poison"]
+                },
+                "kakuna": {
+                    "stage": 2,
+                    "serial_number": 14,
+                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "type": ["bug", "poison"]
+                },
+                "beedrill": {
+                    "stage": 3,
+                    "serial_number": 15,
+                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "type": ["bug", "poison"]
+                }
+            }
+        },
+        "name_origin": {
+            "bee": "referring to a bee",
+            "drill": "referring to the sharp stingers it uses in battle"
+        },
+        "training": {
+            "catch_rate": 45,
+            "catch_rate_percentage": "5.9% with PokéBall, full HP",
+            "base_friendship": 50,
+            "base_exp": 160,
+            "growth_rate": "Medium Fast"
+        }
+    }
+}
