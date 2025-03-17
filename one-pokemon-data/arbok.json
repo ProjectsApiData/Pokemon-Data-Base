@@ -13,7 +13,7 @@
             "name": "arbok",
             "serial_number": 24,
             "types": ["poison"],
-            "species": "cobra Pokémon",
+            "species": "cobra Pokemon",
             "height": {
                 "in_cm": 350,
                 "in_meter": "3.5m",
