@@ -1,0 +1,185 @@
+{
+   "squirtle": {
+        "textContent": [
+            {
+                "text": "Squirtle is a small, blue, turtle-like Pokémon. It has a round shell, and its large, expressive eyes give it an adorable appearance. Squirtle is known for its ability to shoot water from its mouth and is often considered a symbol of calm and determination."
+            },
+            {
+                "text": "Squirtle is one of the original starter Pokémon in the Kanto region. It evolves into Wartortle and eventually into Blastoise. As a Water-type, Squirtle has great defensive capabilities and can attack with powerful water-based moves, making it a strong companion in battles."
+            }
+        ],
+        "megaEvolution": ["mega blastoise"],
+        "pokedex_data": {
+            "name": "squirtle",
+            "serial_number": 7,
+            "types": ["water"],
+            "species": "tiny turtle Pokémon",
+            "height": {
+                "in_cm": 50,
+                "in_meter": "0.5m",
+                "in_foot": "1'08\""
+            },
+            "weight": {
+                "in_kg": 9,
+                "in_lbs": 19.8
+            },
+            "abilities": ["torrent", "rain dish"]
+        },
+        "base_stats": {
+            "hp": {
+                "normal": 44,
+                "minimum": 190,
+                "maximum": 284
+            },
+            "attack": {
+                "normal": 48,
+                "minimum": 92,
+                "maximum": 190
+            },
+            "defense": {
+                "normal": 65,
+                "minimum": 121,
+                "maximum": 221
+            },
+            "sp_atk": {
+                "normal": 50,
+                "minimum": 94,
+                "maximum": 194
+            },
+            "sp_def": {
+                "normal": 64,
+                "minimum": 120,
+                "maximum": 220
+            },
+            "speed": {
+                "normal": 43,
+                "minimum": 81,
+                "maximum": 169
+            }
+        },
+        "attacks": [
+            {
+                "tackle": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": 40,
+                    "accuracy": 100
+                }
+            },
+            {
+                "tail whip": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 100
+                }
+            },
+            {
+                "bubble": {
+                    "type": "water",
+                    "icon": "",
+                    "power": 40,
+                    "accuracy": 100
+                }
+            },
+            {
+                "water gun": {
+                    "type": "water",
+                    "icon": "",
+                    "power": 40,
+                    "accuracy": 100
+                }
+            },
+            {
+                "bite": {
+                    "type": "dark",
+                    "icon": "",
+                    "power": 60,
+                    "accuracy": 100
+                }
+            },
+            {
+                "rapid spin": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": 50,
+                    "accuracy": 100
+                }
+            },
+            {
+                "water pulse": {
+                    "type": "water",
+                    "icon": "",
+                    "power": 60,
+                    "accuracy": 100
+                }
+            },
+            {
+                "aqua tail": {
+                    "type": "water",
+                    "icon": "",
+                    "power": 90,
+                    "accuracy": 90
+                }
+            },
+            {
+                "hydro pump": {
+                    "type": "water",
+                    "icon": "",
+                    "power": 110,
+                    "accuracy": 80
+                }
+            },
+            {
+                "rain dance": {
+                    "type": "water",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 100
+                }
+            },
+            {
+                "skull bash": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": 130,
+                    "accuracy": 100
+                }
+            }
+        ],
+        "evolution_chart": {
+            "evolution_levels": [16, 36],
+            "evolutionary_line": {
+                "squirtle": {
+                    "stage": 1,
+                    "serial_number": 7,
+                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "type": ["water"]
+                },
+                "wartortle": {
+                    "stage": 2,
+                    "serial_number": 8,
+                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "type": ["water"]
+                },
+                "blastoise": {
+                    "stage": 3,
+                    "serial_number": 9,
+                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "type": ["water"]
+                }
+            }
+        },
+        "name_origin": {
+            "squirt": "to shoot or spout",
+            "tle": "a suffix for small animals or creatures"
+        },
+        "training": {
+            "catch_rate": 45,
+            "catch_rate_percentage": "5.9% with PokéBall, full HP",
+            "base_friendship": 50,
+            "base_exp": 63,
+            "growth_rate": "Medium Slow"
+        }
+    }
+}
