@@ -1,0 +1,178 @@
+{
+   "arbok": {
+        "textContent": [
+            {
+                "text": "Arbok is a large, cobra-like Pokémon. Its body is purple with a pattern resembling a face on its hood, which it can flare up to intimidate foes. Arbok is known for its venomous attacks and aggressive behavior when threatened."
+            },
+            {
+                "text": "Arbok evolves from Ekans at level 22. As a Poison-type Pokémon, it is capable of using powerful venomous moves to weaken its enemies. Arbok can also be seen as a symbol of fear and power in the Pokémon world, often used by trainers who favor strength and intimidation."
+            }
+        ],
+        "megaEvolution": [],
+        "pokedex_data": {
+            "name": "arbok",
+            "serial_number": 24,
+            "types": ["poison"],
+            "species": "cobra Pokémon",
+            "height": {
+                "in_cm": 350,
+                "in_meter": "3.5m",
+                "in_foot": "11'06\""
+            },
+            "weight": {
+                "in_kg": 65,
+                "in_lbs": 143.3
+            },
+            "abilities": ["intimidate", "shed skin"]
+        },
+        "base_stats": {
+            "hp": {
+                "normal": 60,
+                "minimum": 190,
+                "maximum": 284
+            },
+            "attack": {
+                "normal": 85,
+                "minimum": 166,
+                "maximum": 306
+            },
+            "defense": {
+                "normal": 69,
+                "minimum": 131,
+                "maximum": 251
+            },
+            "sp_atk": {
+                "normal": 65,
+                "minimum": 121,
+                "maximum": 221
+            },
+            "sp_def": {
+                "normal": 60,
+                "minimum": 112,
+                "maximum": 212
+            },
+            "speed": {
+                "normal": 80,
+                "minimum": 148,
+                "maximum": 280
+            }
+        },
+        "attacks": [
+            {
+                "wrap": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": 15,
+                    "accuracy": 90
+                }
+            },
+            {
+                "leer": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 100
+                }
+            },
+            {
+                "poison sting": {
+                    "type": "poison",
+                    "icon": "",
+                    "power": 15,
+                    "accuracy": 100
+                }
+            },
+            {
+                "bite": {
+                    "type": "dark",
+                    "icon": "",
+                    "power": 60,
+                    "accuracy": 100
+                }
+            },
+            {
+                "acid": {
+                    "type": "poison",
+                    "icon": "",
+                    "power": 40,
+                    "accuracy": 100
+                }
+            },
+            {
+                "glare": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 100
+                }
+            },
+            {
+                "slam": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": 80,
+                    "accuracy": 75
+                }
+            },
+            {
+                "poison fang": {
+                    "type": "poison",
+                    "icon": "",
+                    "power": 50,
+                    "accuracy": 100
+                }
+            },
+            {
+                "toxic": {
+                    "type": "poison",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 90
+                }
+            },
+            {
+                "earthquake": {
+                    "type": "ground",
+                    "icon": "",
+                    "power": 100,
+                    "accuracy": 100
+                }
+            },
+            {
+                "gunk shot": {
+                    "type": "poison",
+                    "icon": "",
+                    "power": 120,
+                    "accuracy": 70
+                }
+            }
+        ],
+        "evolution_chart": {
+            "evolution_levels": [22],
+            "evolutionary_line": {
+                "ekans": {
+                    "stage": 1,
+                    "serial_number": 23,
+                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "type": ["poison"]
+                },
+                "arbok": {
+                    "stage": 2,
+                    "serial_number": 24,
+                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "type": ["poison"]
+                }
+            }
+        },
+        "name_origin": {
+            "arbok": "derived from 'kobra,' which is the Spanish word for cobra"
+        },
+        "training": {
+            "catch_rate": 127,
+            "catch_rate_percentage": "16.7% with PokéBall, full HP",
+            "base_friendship": 35,
+            "base_exp": 158,
+            "growth_rate": "Medium Slow"
+        }
+    }
+}
