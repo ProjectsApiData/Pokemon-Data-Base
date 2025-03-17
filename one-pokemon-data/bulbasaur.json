@@ -1,0 +1,185 @@
+{
+   "bulbasaur": {
+        "textContent": [
+            {
+                "text": "Bulbasaur is a small, quadrupedal Pokémon with a blue-green body and darker blue-green spots. It has red eyes, a pointed, ear-like structure on top of its head, and a small plant bulb on its back, which grows into a large plant as it evolves."
+            },
+            {
+                "text": "Bulbasaur is the first Pokémon in the original Pokédex and is one of the three starter Pokémon in the Kanto region. It is known for its unique Grass/Poison typing and its ability to evolve into Ivysaur and later into Venusaur. Bulbasaur is a versatile Pokémon that can learn a wide range of moves to both attack and defend."
+            }
+        ],
+        "megaEvolution": ["mega venusaur"],
+        "pokedex_data": {
+            "name": "bulbasaur",
+            "serial_number": 1,
+            "types": ["grass", "poison"],
+            "species": "seed Pokémon",
+            "height": {
+                "in_cm": 70,
+                "in_meter": "0.7m",
+                "in_foot": "2'04\""
+            },
+            "weight": {
+                "in_kg": 6.9,
+                "in_lbs": 15.2
+            },
+            "abilities": ["overgrow", "chlorophyll"]
+        },
+        "base_stats": {
+            "hp": {
+                "normal": 45,
+                "minimum": 190,
+                "maximum": 284
+            },
+            "attack": {
+                "normal": 49,
+                "minimum": 93,
+                "maximum": 191
+            },
+            "defense": {
+                "normal": 49,
+                "minimum": 93,
+                "maximum": 191
+            },
+            "sp_atk": {
+                "normal": 65,
+                "minimum": 121,
+                "maximum": 221
+            },
+            "sp_def": {
+                "normal": 65,
+                "minimum": 121,
+                "maximum": 221
+            },
+            "speed": {
+                "normal": 45,
+                "minimum": 85,
+                "maximum": 185
+            }
+        },
+        "attacks": [
+            {
+                "tackle": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": 40,
+                    "accuracy": 100
+                }
+            },
+            {
+                "growl": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 100
+                }
+            },
+            {
+                "leech seed": {
+                    "type": "grass",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 90
+                }
+            },
+            {
+                "vine whip": {
+                    "type": "grass",
+                    "icon": "",
+                    "power": 45,
+                    "accuracy": 100
+                }
+            },
+            {
+                "poison powder": {
+                    "type": "poison",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 75
+                }
+            },
+            {
+                "sleep powder": {
+                    "type": "grass",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 75
+                }
+            },
+            {
+                "take down": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": 90,
+                    "accuracy": 85
+                }
+            },
+            {
+                "razor leaf": {
+                    "type": "grass",
+                    "icon": "",
+                    "power": 55,
+                    "accuracy": 95
+                }
+            },
+            {
+                "sweet scent": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 100
+                }
+            },
+            {
+                "growth": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 100
+                }
+            },
+            {
+                "solar beam": {
+                    "type": "grass",
+                    "icon": "",
+                    "power": 120,
+                    "accuracy": 100
+                }
+            }
+        ],
+        "evolution_chart": {
+            "evolution_levels": [16, 32],
+            "evolutionary_line": {
+                "bulbasaur": {
+                    "stage": 1,
+                    "serial_number": 1,
+                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "type": ["grass", "poison"]
+                },
+                "ivysaur": {
+                    "stage": 2,
+                    "serial_number": 2,
+                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "type": ["grass", "poison"]
+                },
+                "venusaur": {
+                    "stage": 3,
+                    "serial_number": 3,
+                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "type": ["grass", "poison"]
+                }
+            }
+        },
+        "name_origin": {
+            "bulb": "a plant bulb",
+            "saur": "lizard, referring to its reptilian nature"
+        },
+        "training": {
+            "catch_rate": 45,
+            "catch_rate_percentage": "5.9% with PokéBall, full HP",
+            "base_friendship": 50,
+            "base_exp": 64,
+            "growth_rate": "Medium Slow"
+        }
+    }
+}
