@@ -13,7 +13,7 @@
             "name": "butterfree",
             "serial_number": 12,
             "types": ["bug", "flying"],
-            "species": "butterfly Pokémon",
+            "species": "butterfly Pokemon",
             "height": {
                 "in_cm": 100,
                 "in_meter": "1.0m",
