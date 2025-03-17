@@ -13,7 +13,7 @@
             "name": "charmander",
             "serial_number": 4,
             "types": ["fire"],
-            "species": "lizard Pokémon",
+            "species": "lizard Pokemon",
             "height": {
                 "in_cm": 60,
                 "in_meter": "0.6m",
