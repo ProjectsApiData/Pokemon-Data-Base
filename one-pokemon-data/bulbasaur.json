@@ -13,7 +13,7 @@
             "name": "bulbasaur",
             "serial_number": 1,
             "types": ["grass", "poison"],
-            "species": "seed Pokémon",
+            "species": "seed Pokemon",
             "height": {
                 "in_cm": 70,
                 "in_meter": "0.7m",
