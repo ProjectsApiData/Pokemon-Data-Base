@@ -1,0 +1,185 @@
+{
+   "charmander": {
+        "textContent": [
+            {
+                "text": "Charmander is a small, orange, dinosaur-like Pokémon with a flame on the tip of its tail. The flame burns brightly when it is strong and flickers when it is weak. This Pokémon is known for its fiery temperament and bravery."
+            },
+            {
+                "text": "Charmander is one of the original starter Pokémon in the Kanto region. It evolves into Charmeleon and eventually into Charizard. Despite being a Fire-type, Charmander has shown loyalty and courage, often becoming a great companion to its trainers."
+            }
+        ],
+        "megaEvolution": ["mega charizard-x", "mega charizard-y"],
+        "pokedex_data": {
+            "name": "charmander",
+            "serial_number": 4,
+            "types": ["fire"],
+            "species": "lizard Pokémon",
+            "height": {
+                "in_cm": 60,
+                "in_meter": "0.6m",
+                "in_foot": "1'10\""
+            },
+            "weight": {
+                "in_kg": 8.5,
+                "in_lbs": 18.7
+            },
+            "abilities": ["blaze", "solar power"]
+        },
+        "base_stats": {
+            "hp": {
+                "normal": 39,
+                "minimum": 190,
+                "maximum": 284
+            },
+            "attack": {
+                "normal": 52,
+                "minimum": 97,
+                "maximum": 193
+            },
+            "defense": {
+                "normal": 43,
+                "minimum": 81,
+                "maximum": 169
+            },
+            "sp_atk": {
+                "normal": 60,
+                "minimum": 112,
+                "maximum": 212
+            },
+            "sp_def": {
+                "normal": 50,
+                "minimum": 94,
+                "maximum": 194
+            },
+            "speed": {
+                "normal": 65,
+                "minimum": 121,
+                "maximum": 221
+            }
+        },
+        "attacks": [
+            {
+                "scratch": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": 40,
+                    "accuracy": 100
+                }
+            },
+            {
+                "growl": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 100
+                }
+            },
+            {
+                "ember": {
+                    "type": "fire",
+                    "icon": "",
+                    "power": 40,
+                    "accuracy": 100
+                }
+            },
+            {
+                "leer": {
+                    "type": "normal",
+                    "icon": "",
+                    "power": "",
+                    "accuracy": 100
+                }
+            },
+            {
+                "flamethrower": {
+                    "type": "fire",
+                    "icon": "",
+                    "power": 95,
+                    "accuracy": 100
+                }
+            },
+            {
+                "fire spin": {
+                    "type": "fire",
+                    "icon": "",
+                    "power": 25,
+                    "accuracy": 70
+                }
+            },
+            {
+                "dragon rage": {
+                    "type": "dragon",
+                    "icon": "",
+                    "power": 100,
+                    "accuracy": 100
+                }
+            },
+            {
+                "wing attack": {
+                    "type": "flying",
+                    "icon": "",
+                    "power": 60,
+                    "accuracy": 100
+                }
+            },
+            {
+                "flame burst": {
+                    "type": "fire",
+                    "icon": "",
+                    "power": 70,
+                    "accuracy": 100
+                }
+            },
+            {
+                "inferno": {
+                    "type": "fire",
+                    "icon": "",
+                    "power": 100,
+                    "accuracy": 50
+                }
+            },
+            {
+                "heat wave": {
+                    "type": "fire",
+                    "icon": "",
+                    "power": 95,
+                    "accuracy": 90
+                }
+            }
+        ],
+        "evolution_chart": {
+            "evolution_levels": [16, 36],
+            "evolutionary_line": {
+                "charmander": {
+                    "stage": 1,
+                    "serial_number": 4,
+                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "type": ["fire"]
+                },
+                "charmeleon": {
+                    "stage": 2,
+                    "serial_number": 5,
+                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "type": ["fire"]
+                },
+                "charizard": {
+                    "stage": 3,
+                    "serial_number": 6,
+                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "type": ["fire", "flying"]
+                }
+            }
+        },
+        "name_origin": {
+            "char": "to burn or singe",
+            "mander": "a lizard"
+        },
+        "training": {
+            "catch_rate": 45,
+            "catch_rate_percentage": "5.9% with PokéBall, full HP",
+            "base_friendship": 50,
+            "base_exp": 64,
+            "growth_rate": "Medium Slow"
+        }
+    }
+}
