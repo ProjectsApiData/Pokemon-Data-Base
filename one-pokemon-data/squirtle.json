@@ -13,7 +13,7 @@
             "name": "squirtle",
             "serial_number": 7,
             "types": ["water"],
-            "species": "tiny turtle Pokémon",
+            "species": "tiny turtle Pokemon",
             "height": {
                 "in_cm": 50,
                 "in_meter": "0.5m",
