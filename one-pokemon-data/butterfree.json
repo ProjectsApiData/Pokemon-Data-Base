@@ -2,10 +2,10 @@
    "butterfree": {
         "textContent": [
             {
-                "text": "Butterfree is a butterfly-like Pokémon, primarily purple with large, translucent wings that have blue markings. It evolves from Metapod and is known for its swift flight and powerful attacks that can confuse and paralyze its opponents."
+                "text": "Butterfree is a butterfly-like Pokemon, primarily purple with large, translucent wings that have blue markings. It evolves from Metapod and is known for its swift flight and powerful attacks that can confuse and paralyze its opponents."
             },
             {
-                "text": "Butterfree is the final evolution of the original Pokémon's Bug-type line. It has a gentle appearance but can be quite powerful in battle with access to moves like Bug Buzz and Sleep Powder. In the Pokémon anime, it is often shown as a loyal and loving companion to its trainer."
+                "text": "Butterfree is the final evolution of the original Pokemon's Bug-type line. It has a gentle appearance but can be quite powerful in battle with access to moves like Bug Buzz and Sleep Powder. In the Pokemon anime, it is often shown as a loyal and loving companion to its trainer."
             }
         ],
         "megaEvolution": ["mega butterfree"],
@@ -157,7 +157,7 @@
                 "butterfree": {
                     "stage": 3,
                     "serial_number": 12,
-                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "imgURL": "https://i.ibb.co/Z6THX95p/image.png",
                     "type": ["bug", "flying"]
                 }
             }
