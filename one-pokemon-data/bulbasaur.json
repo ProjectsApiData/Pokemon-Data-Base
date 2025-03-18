@@ -5,10 +5,10 @@
                 "text": "Bulbasaur is a small, quadrupedal Pokemon with a blue-green body and darker blue-green spots. It has red eyes, a pointed, ear-like structure on top of its head, and a small plant bulb on its back, which grows into a large plant as it evolves."
             },
             {
-                "text": "Bulbasaur is the first Pokémon in the original Pokedex and is one of the three starter Pokemon in the Kanto region. It is known for its unique Grass/Poison typing and its ability to evolve into Ivysaur and later into Venusaur. Bulbasaur is a versatile Pokemon that can learn a wide range of moves to both attack and defend."
+                "text": "Bulbasaur is the first Pokemon in the original Pokedex and is one of the three starter Pokemon in the Kanto region. It is known for its unique Grass/Poison typing and its ability to evolve into Ivysaur and later into Venusaur. Bulbasaur is a versatile Pokemon that can learn a wide range of moves to both attack and defend."
             }
         ],
-        "megaEvolution": ["mega venusaur"],
+        "megaEvolution": false,
         "pokedex_data": {
             "name": "bulbasaur",
             "serial_number": 1,
@@ -153,7 +153,7 @@
                 "bulbasaur": {
                     "stage": 1,
                     "serial_number": 1,
-                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "imgURL": "https://i.ibb.co/tMS3JB6k/image.png",
                     "type": ["grass", "poison"]
                 },
                 "ivysaur": {
@@ -176,7 +176,7 @@
         },
         "training": {
             "catch_rate": 45,
-            "catch_rate_percentage": "5.9% with PokéBall, full HP",
+            "catch_rate_percentage": "5.9% with PokeBall, full HP",
             "base_friendship": 50,
             "base_exp": 64,
             "growth_rate": "Medium Slow"
