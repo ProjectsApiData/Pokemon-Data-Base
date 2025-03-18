@@ -2,13 +2,13 @@
    "squirtle": {
         "textContent": [
             {
-                "text": "Squirtle is a small, blue, turtle-like Pokémon. It has a round shell, and its large, expressive eyes give it an adorable appearance. Squirtle is known for its ability to shoot water from its mouth and is often considered a symbol of calm and determination."
+                "text": "Squirtle is a small, blue, turtle-like Pokemon. It has a round shell, and its large, expressive eyes give it an adorable appearance. Squirtle is known for its ability to shoot water from its mouth and is often considered a symbol of calm and determination."
             },
             {
-                "text": "Squirtle is one of the original starter Pokémon in the Kanto region. It evolves into Wartortle and eventually into Blastoise. As a Water-type, Squirtle has great defensive capabilities and can attack with powerful water-based moves, making it a strong companion in battles."
+                "text": "Squirtle is one of the original starter Pokemon in the Kanto region. It evolves into Wartortle and eventually into Blastoise. As a Water-type, Squirtle has great defensive capabilities and can attack with powerful water-based moves, making it a strong companion in battles."
             }
         ],
-        "megaEvolution": ["mega blastoise"],
+        "megaEvolution": false,
         "pokedex_data": {
             "name": "squirtle",
             "serial_number": 7,
@@ -153,7 +153,7 @@
                 "squirtle": {
                     "stage": 1,
                     "serial_number": 7,
-                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "imgURL": "https://i.ibb.co/h1JVqP55/image.png",
                     "type": ["water"]
                 },
                 "wartortle": {
