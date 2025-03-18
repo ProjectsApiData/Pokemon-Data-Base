@@ -2,13 +2,13 @@
    "charmander": {
         "textContent": [
             {
-                "text": "Charmander is a small, orange, dinosaur-like Pokémon with a flame on the tip of its tail. The flame burns brightly when it is strong and flickers when it is weak. This Pokémon is known for its fiery temperament and bravery."
+                "text": "Charmander is a small, orange, dinosaur-like Pokemon with a flame on the tip of its tail. The flame burns brightly when it is strong and flickers when it is weak. This Pokemon is known for its fiery temperament and bravery."
             },
             {
-                "text": "Charmander is one of the original starter Pokémon in the Kanto region. It evolves into Charmeleon and eventually into Charizard. Despite being a Fire-type, Charmander has shown loyalty and courage, often becoming a great companion to its trainers."
+                "text": "Charmander is one of the original starter Pokemon in the Kanto region. It evolves into Charmeleon and eventually into Charizard. Despite being a Fire-type, Charmander has shown loyalty and courage, often becoming a great companion to its trainers."
             }
         ],
-        "megaEvolution": ["mega charizard-x", "mega charizard-y"],
+        "megaEvolution": false,
         "pokedex_data": {
             "name": "charmander",
             "serial_number": 4,
@@ -153,7 +153,7 @@
                 "charmander": {
                     "stage": 1,
                     "serial_number": 4,
-                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "imgURL": "https://i.ibb.co/BVD6fJgJ/image.png",
                     "type": ["fire"]
                 },
                 "charmeleon": {
@@ -176,7 +176,7 @@
         },
         "training": {
             "catch_rate": 45,
-            "catch_rate_percentage": "5.9% with PokéBall, full HP",
+            "catch_rate_percentage": "5.9% with PokeBall, full HP",
             "base_friendship": 50,
             "base_exp": 64,
             "growth_rate": "Medium Slow"
