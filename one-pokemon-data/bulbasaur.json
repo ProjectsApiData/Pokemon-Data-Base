@@ -159,13 +159,13 @@
                 "ivysaur": {
                     "stage": 2,
                     "serial_number": 2,
-                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "imgURL": "https://i.ibb.co/5XDHJVTv/Ivysaur.png",
                     "type": ["grass", "poison"]
                 },
                 "venusaur": {
                     "stage": 3,
                     "serial_number": 3,
-                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
+                    "imgURL": "https://i.ibb.co/8ny6D2sW/image.png",
                     "type": ["grass", "poison"]
                 }
             }
