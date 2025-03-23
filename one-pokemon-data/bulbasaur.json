@@ -1,185 +1,87 @@
 {
-   "bulbasaur": {
+    "bulbasaur": {
         "textContent": [
-            {
-                "text": "Bulbasaur is a small, quadrupedal Pokemon with a blue-green body and darker blue-green spots. It has red eyes, a pointed, ear-like structure on top of its head, and a small plant bulb on its back, which grows into a large plant as it evolves."
-            },
-            {
-                "text": "Bulbasaur is the first Pokemon in the original Pokedex and is one of the three starter Pokemon in the Kanto region. It is known for its unique Grass/Poison typing and its ability to evolve into Ivysaur and later into Venusaur. Bulbasaur is a versatile Pokemon that can learn a wide range of moves to both attack and defend."
-            }
+            "Bulbasaur is a small, quadrupedal Pokémon with blue-green skin and darker patches. It has a plant bulb on its back that grows as it evolves.",
+            "Bulbasaur is one of the original starter Pokémon, known for its dual Grass/Poison typing and balanced stats."
         ],
-        "megaEvolution": false,
+        "megaEvolution": [],
         "pokedex_data": {
             "name": "bulbasaur",
             "serial_number": 1,
             "types": ["grass", "poison"],
-            "species": "seed Pokemon",
-            "height": {
-                "in_cm": 70,
-                "in_meter": "0.7m",
-                "in_foot": "2'04\""
-            },
-            "weight": {
-                "in_kg": 6.9,
-                "in_lbs": 15.2
-            },
-            "abilities": ["overgrow", "chlorophyll"]
+            "species": "seed pokemon",
+            "height": { "cm": 70, "meter": 0.7, "foot": "2'04\"" },
+            "weight": { "kg": 6.9, "lbs": 15.2 },
+            "abilities": ["chlorophyll"]
         },
-        "base_stats": {
-            "hp": {
-                "normal": 45,
-                "minimum": 190,
-                "maximum": 284
+        "habitats": {
+            "region": {
+                "description": "Bulbasaur originates from the Kanto region and can be found in lush forests and grasslands.",
+                "locations": {
+                    "general": [
+                        { "name": "Kanto", "description": "Original home region" },
+                        { "name": "Johto", "description": "A neighboring region with diverse biomes" },
+                        { "name": "Sinnoh", "description": "A region with fertile lands and forests" }
+                    ],
+                    "special": []
+                }
             },
-            "attack": {
-                "normal": 49,
-                "minimum": 93,
-                "maximum": 191
+            "preferred_environment": {
+                "description": "Bulbasaur prefers warm, sunny environments with plenty of vegetation.",
+                "environment": [
+                    { "name": "Forests", "description": "Thrives in dense forests with abundant plants" },
+                    { "name": "Grasslands", "description": "Often found in open grassy fields" }
+                ]
             },
-            "defense": {
-                "normal": 49,
-                "minimum": 93,
-                "maximum": 191
-            },
-            "sp_atk": {
-                "normal": 65,
-                "minimum": 121,
-                "maximum": 221
-            },
-            "sp_def": {
-                "normal": 65,
-                "minimum": 121,
-                "maximum": 221
-            },
-            "speed": {
-                "normal": 45,
-                "minimum": 85,
-                "maximum": 185
+            "behavior": {
+                "description": "Bulbasaur is friendly and docile but can be fiercely protective of its trainer and territory.",
+                "traits": [
+                    { "name": "Loyal", "description": "Forms strong bonds with trainers" },
+                    { "name": "Calm", "description": "Usually relaxed and easygoing" },
+                    { "name": "Protective", "description": "Defends its friends with determination" }
+                ]
             }
         },
-        "attacks": [
-            {
-                "tackle": {
-                    "type": "normal",
-                    "icon": "",
-                    "power": 40,
-                    "accuracy": 100
-                }
-            },
-            {
-                "growl": {
-                    "type": "normal",
-                    "icon": "",
-                    "power": "",
-                    "accuracy": 100
-                }
-            },
-            {
-                "leech seed": {
-                    "type": "grass",
-                    "icon": "",
-                    "power": "",
-                    "accuracy": 90
-                }
-            },
-            {
-                "vine whip": {
-                    "type": "grass",
-                    "icon": "",
-                    "power": 45,
-                    "accuracy": 100
-                }
-            },
-            {
-                "poison powder": {
-                    "type": "poison",
-                    "icon": "",
-                    "power": "",
-                    "accuracy": 75
-                }
-            },
-            {
-                "sleep powder": {
-                    "type": "grass",
-                    "icon": "",
-                    "power": "",
-                    "accuracy": 75
-                }
-            },
-            {
-                "take down": {
-                    "type": "normal",
-                    "icon": "",
-                    "power": 90,
-                    "accuracy": 85
-                }
-            },
-            {
-                "razor leaf": {
-                    "type": "grass",
-                    "icon": "",
-                    "power": 55,
-                    "accuracy": 95
-                }
-            },
-            {
-                "sweet scent": {
-                    "type": "normal",
-                    "icon": "",
-                    "power": "",
-                    "accuracy": 100
-                }
-            },
-            {
-                "growth": {
-                    "type": "normal",
-                    "icon": "",
-                    "power": "",
-                    "accuracy": 100
-                }
-            },
-            {
-                "solar beam": {
-                    "type": "grass",
-                    "icon": "",
-                    "power": 120,
-                    "accuracy": 100
-                }
-            }
+        "base_stats": [
+            { "stat": "hp", "normal": 45, "min": 200, "max": 294 },
+            { "stat": "attack", "normal": 49, "min": 92, "max": 216 },
+            { "stat": "defense", "normal": 49, "min": 92, "max": 216 },
+            { "stat": "sp_atk", "normal": 65, "min": 121, "max": 251 },
+            { "stat": "sp_def", "normal": 65, "min": 121, "max": 251 },
+            { "stat": "speed", "normal": 45, "min": 85, "max": 207 }
         ],
-        "evolution_chart": {
-            "evolution_levels": [16, 32],
-            "evolutionary_line": {
-                "bulbasaur": {
-                    "stage": 1,
-                    "serial_number": 1,
-                    "imgURL": "https://i.ibb.co/tMS3JB6k/image.png",
-                    "type": ["grass", "poison"]
-                },
-                "ivysaur": {
-                    "stage": 2,
-                    "serial_number": 2,
-                    "imgURL": "https://i.ibb.co/5XDHJVTv/Ivysaur.png",
-                    "type": ["grass", "poison"]
-                },
-                "venusaur": {
-                    "stage": 3,
-                    "serial_number": 3,
-                    "imgURL": "https://i.ibb.co/8ny6D2sW/image.png",
-                    "type": ["grass", "poison"]
-                }
-            }
-        },
-        "name_origin": {
-            "bulb": "a plant bulb",
-            "saur": "lizard, referring to its reptilian nature"
-        },
         "training": {
             "catch_rate": 45,
-            "catch_rate_percentage": "5.9% with PokeBall, full HP",
+            "catch_rate_percentage": "5.9% with PokéBall, full HP",
             "base_friendship": 50,
             "base_exp": 64,
             "growth_rate": "Medium Slow"
-        }
+        },
+        "battle_properties": {
+            "weaknesses": ["fire", "flying", "ice", "psychic"],
+            "resistances": ["water", "electric", "grass", "fighting", "fairy"],
+            "immunities": []
+        },
+        "evolution_chart": {
+            "evolution_levels": [16, 32],
+            "evolutionary_line": [
+                { "name": "bulbasaur", "stage": 1, "serial_number": 1, "imgURL": "https://i.ibb.co/JW52VH20/image.png", "type": ["grass", "poison"], "evolution_stone": null },
+                { "name": "ivysaur", "stage": 2, "serial_number": 2, "imgURL": "https://i.ibb.co/Kpt4chy0/image.png", "type": ["grass", "poison"], "evolution_stone": null },
+                { "name": "venusaur", "stage": 3, "serial_number": 3, "imgURL": "https://i.ibb.co/ZzM3rPvg/image.png", "type": ["grass", "poison"], "evolution_stone": null }
+            ]
+        },
+        "attacks": [
+            { "name": "tackle", "type": "normal", "power": 40, "accuracy": 100, "level": 1, "icon": "⚔️" },
+            { "name": "growl", "type": "normal", "power": "", "accuracy": 100, "level": 3, "icon": "🐾" },
+            { "name": "vine whip", "type": "grass", "power": 45, "accuracy": 100, "level": 7, "icon": "🌿" },
+            { "name": "leech seed", "type": "grass", "power": "", "accuracy": 90, "level": 9, "icon": "🌱" },
+            { "name": "poison powder", "type": "poison", "power": "", "accuracy": 75, "level": 12, "icon": "☠️" },
+            { "name": "sleep powder", "type": "grass", "power": "", "accuracy": 75, "level": 12, "icon": "💤" },
+            { "name": "razor leaf", "type": "grass", "power": 55, "accuracy": 95, "level": 16, "icon": "🍃" }
+        ],
+        "name_origin": [
+            { "word": "bulb", "meaning": "a plant bulb, referencing the bulb on its back" },
+            { "word": "dinosaur", "meaning": "a prehistoric reptile, relating to its appearance" }
+        ]
     }
 }
