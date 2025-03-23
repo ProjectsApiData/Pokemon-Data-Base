@@ -1,177 +1,95 @@
 {
-   "butterfree": {
+    "butterfree": {
         "textContent": [
-            {
-                "text": "Butterfree is a butterfly-like Pokemon, primarily purple with large, translucent wings that have blue markings. It evolves from Metapod and is known for its swift flight and powerful attacks that can confuse and paralyze its opponents."
-            },
-            {
-                "text": "Butterfree is the final evolution of the original Pokemon's Bug-type line. It has a gentle appearance but can be quite powerful in battle with access to moves like Bug Buzz and Sleep Powder. In the Pokemon anime, it is often shown as a loyal and loving companion to its trainer."
-            }
+            "Butterfree is a butterfly-like Pokémon with large, white wings and a purple body. It is known for its exceptional flying abilities and its capability to scatter various powders to affect opponents.",
+            "Butterfree is the final evolution of the Caterpie line and is known for its speed, status-inducing moves, and strong aerial combat skills."
         ],
-        "megaEvolution": ["mega butterfree"],
+        "megaEvolution": [],
+        "shiny_variant": {
+            "description": "Shiny Butterfree has wings with a light purple hue instead of white, and its body takes on a soft pinkish tone.",
+            "sprite_url": "https://i.ibb.co/ShinyButterfree.png"
+        },
         "pokedex_data": {
             "name": "butterfree",
             "serial_number": 12,
             "types": ["bug", "flying"],
-            "species": "butterfly Pokemon",
-            "height": {
-                "in_cm": 100,
-                "in_meter": "1.0m",
-                "in_foot": "3'03\""
-            },
-            "weight": {
-                "in_kg": 32,
-                "in_lbs": 70.5
-            },
-            "abilities": ["compoundeyes", "tinted lens"]
+            "species": "butterfly pokemon",
+            "height": { "cm": 110, "meter": 1.1, "foot": "3'07\"" },
+            "weight": { "kg": 32.0, "lbs": 70.5 },
+            "abilities": ["compound eyes", "tinted lens"]
         },
-        "base_stats": {
-            "hp": {
-                "normal": 60,
-                "minimum": 204,
-                "maximum": 292
+        "habitats": {
+            "region": {
+                "description": "Butterfree originates from the Kanto region and is commonly found in forests and flower fields.",
+                "locations": {
+                    "general": [
+                        { "name": "Kanto", "description": "Original home region" },
+                        { "name": "Johto", "description": "A neighboring region with lush greenery" },
+                        { "name": "Sinnoh", "description": "A region with dense forests and rich biodiversity" }
+                    ],
+                    "special": []
+                }
             },
-            "attack": {
-                "normal": 45,
-                "minimum": 85,
-                "maximum": 185
+            "preferred_environment": {
+                "description": "Butterfree thrives in flower fields and forests where it can collect nectar and spread its powders.",
+                "environment": [
+                    { "name": "Forests", "description": "Prefers dense forests with plenty of flowers" },
+                    { "name": "Meadows", "description": "Often seen fluttering around open fields and meadows" },
+                    { "name": "Gardens", "description": "Sometimes found in gardens with many flowers" }
+                ]
             },
-            "defense": {
-                "normal": 50,
-                "minimum": 94,
-                "maximum": 200
-            },
-            "sp_atk": {
-                "normal": 90,
-                "minimum": 160,
-                "maximum": 270
-            },
-            "sp_def": {
-                "normal": 80,
-                "minimum": 150,
-                "maximum": 260
-            },
-            "speed": {
-                "normal": 70,
-                "minimum": 130,
-                "maximum": 210
+            "behavior": {
+                "description": "Butterfree is gentle and peaceful but can fiercely defend itself using its powerful wing attacks and powders.",
+                "traits": [
+                    { "name": "Gentle", "description": "Has a calm and peaceful nature" },
+                    { "name": "Protective", "description": "Will defend its territory using its powders" },
+                    { "name": "Agile", "description": "Can fly swiftly and maneuver easily" }
+                ]
             }
         },
-        "attacks": [
-            {
-                "tackle": {
-                    "type": "normal",
-                    "icon": "",
-                    "power": 40,
-                    "accuracy": 100
-                }
-            },
-            {
-                "string shot": {
-                    "type": "bug",
-                    "icon": "",
-                    "power": 20,
-                    "accuracy": 100
-                }
-            },
-            {
-                "confusion": {
-                    "type": "psychic",
-                    "icon": "",
-                    "power": 50,
-                    "accuracy": 100
-                }
-            },
-            {
-                "sleep powder": {
-                    "type": "bug",
-                    "icon": "",
-                    "power": "",
-                    "accuracy": 75
-                }
-            },
-            {
-                "stun spore": {
-                    "type": "grass",
-                    "icon": "",
-                    "power": "",
-                    "accuracy": 75
-                }
-            },
-            {
-                "bug bite": {
-                    "type": "bug",
-                    "icon": "",
-                    "power": 60,
-                    "accuracy": 100
-                }
-            },
-            {
-                "bug buzz": {
-                    "type": "bug",
-                    "icon": "",
-                    "power": 90,
-                    "accuracy": 100
-                }
-            },
-            {
-                "air slash": {
-                    "type": "flying",
-                    "icon": "",
-                    "power": 75,
-                    "accuracy": 95
-                }
-            },
-            {
-                "hurricane": {
-                    "type": "flying",
-                    "icon": "",
-                    "power": 110,
-                    "accuracy": 70
-                }
-            },
-            {
-                "quiver dance": {
-                    "type": "bug",
-                    "icon": "",
-                    "power": "",
-                    "accuracy": 100
-                }
-            }
+        "base_stats": [
+            { "stat": "hp", "normal": 60, "min": 250, "max": 344 },
+            { "stat": "attack", "normal": 45, "min": 85, "max": 207 },
+            { "stat": "defense", "normal": 50, "min": 94, "max": 218 },
+            { "stat": "sp_atk", "normal": 90, "min": 166, "max": 306 },
+            { "stat": "sp_def", "normal": 80, "min": 148, "max": 284 },
+            { "stat": "speed", "normal": 70, "min": 130, "max": 262 }
         ],
-        "evolution_chart": {
-            "evolution_levels": [10, 20],
-            "evolutionary_line": {
-                "caterpie": {
-                    "stage": 1,
-                    "serial_number": 10,
-                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
-                    "type": ["bug"]
-                },
-                "metapod": {
-                    "stage": 2,
-                    "serial_number": 11,
-                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
-                    "type": ["bug"]
-                },
-                "butterfree": {
-                    "stage": 3,
-                    "serial_number": 12,
-                    "imgURL": "https://i.ibb.co/Z6THX95p/image.png",
-                    "type": ["bug", "flying"]
-                }
-            }
-        },
-        "name_origin": {
-            "butter": "from butterfly",
-            "free": "suggesting freedom or flight"
-        },
         "training": {
             "catch_rate": 45,
             "catch_rate_percentage": "5.9% with PokéBall, full HP",
             "base_friendship": 50,
-            "base_exp": 250,
+            "base_exp": 198,
             "growth_rate": "Medium Fast"
-        }
+        },
+        "battle_properties": {
+            "weaknesses": ["rock", "electric", "fire", "flying", "ice"],
+            "resistances": ["bug", "fighting", "grass"],
+            "immunities": ["ground"]
+        },
+        "evolution_chart": {
+            "evolution_levels": [7, 10],
+            "evolutionary_line": [
+                { "name": "caterpie", "stage": 1, "serial_number": 10, "imgURL": "https://i.ibb.co/JW52VH20/image.png", "type": ["bug"], "evolution_stone": null },
+                { "name": "metapod", "stage": 2, "serial_number": 11, "imgURL": "https://i.ibb.co/Kpt4chy0/image.png", "type": ["bug"], "evolution_stone": null },
+                { "name": "butterfree", "stage": 3, "serial_number": 12, "imgURL": "https://i.ibb.co/ZzM3rPvg/image.png", "type": ["bug", "flying"], "evolution_stone": null }
+            ]
+        },
+        "attacks": [
+            { "name": "tackle", "type": "normal", "power": 40, "accuracy": 100, "level": 1, "icon": "⚔️" },
+            { "name": "string shot", "type": "bug", "power": "", "accuracy": 95, "level": 1, "icon": "🕸️" },
+            { "name": "harden", "type": "normal", "power": "", "accuracy": "", "level": 7, "icon": "🛡️" },
+            { "name": "confusion", "type": "psychic", "power": 50, "accuracy": 100, "level": 10, "icon": "🔮" },
+            { "name": "gust", "type": "flying", "power": 40, "accuracy": 100, "level": 12, "icon": "🌪️" },
+            { "name": "poison powder", "type": "poison", "power": "", "accuracy": 75, "level": 16, "icon": "☠️" },
+            { "name": "sleep powder", "type": "grass", "power": "", "accuracy": 75, "level": 16, "icon": "💤" },
+            { "name": "stun spore", "type": "grass", "power": "", "accuracy": 75, "level": 16, "icon": "⚡" },
+            { "name": "bug bite", "type": "bug", "power": 60, "accuracy": 100, "level": 15, "icon": "🐞" },
+            { "name": "quiver dance", "type": "bug", "power": "", "accuracy": "", "level": 16, "icon": "💃" }
+        ],
+        "name_origin": [
+            { "word": "butter", "meaning": "referring to butterflies and their soft wings" },
+            { "word": "free", "meaning": "representing its ability to fly freely" }
+        ]
     }
 }
