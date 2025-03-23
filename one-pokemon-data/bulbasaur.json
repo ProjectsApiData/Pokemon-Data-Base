@@ -66,7 +66,7 @@
             "evolution_levels": [16, 32],
             "evolutionary_line": [
                 { "name": "bulbasaur", "stage": 1, "serial_number": 1, "imgURL": "https://i.ibb.co/tMS3JB6k/image.png", "type": ["grass", "poison"], "evolution_stone": null },
-                { "name": "ivysaur", "stage": 2, "serial_number": 2, "imgURL": "https://i.ibb.co/Kpt4chy0/image.png", "type": ["grass", "poison"], "evolution_stone": null },
+                { "name": "ivysaur", "stage": 2, "serial_number": 2, "imgURL": "https://i.ibb.co/5XDHJVTv/Ivysaur.png", "type": ["grass", "poison"], "evolution_stone": null },
                 { "name": "venusaur", "stage": 3, "serial_number": 3, "imgURL": "https://i.ibb.co/8ny6D2sW/image.png", "type": ["grass", "poison"], "evolution_stone": null }
             ]
         },
