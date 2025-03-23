@@ -1,185 +1,87 @@
 {
-   "squirtle": {
+    "squirtle": {
         "textContent": [
-            {
-                "text": "Squirtle is a small, blue, turtle-like Pokemon. It has a round shell, and its large, expressive eyes give it an adorable appearance. Squirtle is known for its ability to shoot water from its mouth and is often considered a symbol of calm and determination."
-            },
-            {
-                "text": "Squirtle is one of the original starter Pokemon in the Kanto region. It evolves into Wartortle and eventually into Blastoise. As a Water-type, Squirtle has great defensive capabilities and can attack with powerful water-based moves, making it a strong companion in battles."
-            }
+            "Squirtle is a small, turtle-like Pokémon with blue skin and a hard shell on its back. It is known for its ability to shoot water from its mouth with great accuracy.",
+            "Squirtle is one of the original starter Pokémon, recognized for its Water typing and strong defensive capabilities."
         ],
-        "megaEvolution": false,
+        "megaEvolution": [],
         "pokedex_data": {
             "name": "squirtle",
             "serial_number": 7,
             "types": ["water"],
-            "species": "tiny turtle Pokemon",
-            "height": {
-                "in_cm": 50,
-                "in_meter": "0.5m",
-                "in_foot": "1'08\""
-            },
-            "weight": {
-                "in_kg": 9,
-                "in_lbs": 19.8
-            },
+            "species": "tiny turtle pokemon",
+            "height": { "cm": 50, "meter": 0.5, "foot": "1'08\"" },
+            "weight": { "kg": 9.0, "lbs": 19.8 },
             "abilities": ["torrent", "rain dish"]
         },
-        "base_stats": {
-            "hp": {
-                "normal": 44,
-                "minimum": 190,
-                "maximum": 284
+        "habitats": {
+            "region": {
+                "description": "Squirtle originates from the Kanto region and is commonly found in freshwater lakes and beaches.",
+                "locations": {
+                    "general": [
+                        { "name": "Kanto", "description": "Original home region" },
+                        { "name": "Johto", "description": "A neighboring region with many lakes" },
+                        { "name": "Hoenn", "description": "A region known for its vast oceans" }
+                    ],
+                    "special": []
+                }
             },
-            "attack": {
-                "normal": 48,
-                "minimum": 92,
-                "maximum": 190
+            "preferred_environment": {
+                "description": "Squirtle prefers aquatic environments where it can swim freely and hide in its shell when needed.",
+                "environment": [
+                    { "name": "Lakes", "description": "Enjoys calm freshwater lakes and ponds" },
+                    { "name": "Beaches", "description": "Can be found near coastal areas" },
+                    { "name": "Rivers", "description": "Often seen swimming in slow-moving rivers" }
+                ]
             },
-            "defense": {
-                "normal": 65,
-                "minimum": 121,
-                "maximum": 221
-            },
-            "sp_atk": {
-                "normal": 50,
-                "minimum": 94,
-                "maximum": 194
-            },
-            "sp_def": {
-                "normal": 64,
-                "minimum": 120,
-                "maximum": 220
-            },
-            "speed": {
-                "normal": 43,
-                "minimum": 81,
-                "maximum": 169
+            "behavior": {
+                "description": "Squirtle is playful and intelligent but can also be very determined in battles.",
+                "traits": [
+                    { "name": "Playful", "description": "Enjoys playing in water and with companions" },
+                    { "name": "Loyal", "description": "Forms strong bonds with trainers" },
+                    { "name": "Defensive", "description": "Uses its shell for protection" }
+                ]
             }
         },
-        "attacks": [
-            {
-                "tackle": {
-                    "type": "normal",
-                    "icon": "",
-                    "power": 40,
-                    "accuracy": 100
-                }
-            },
-            {
-                "tail whip": {
-                    "type": "normal",
-                    "icon": "",
-                    "power": "",
-                    "accuracy": 100
-                }
-            },
-            {
-                "bubble": {
-                    "type": "water",
-                    "icon": "",
-                    "power": 40,
-                    "accuracy": 100
-                }
-            },
-            {
-                "water gun": {
-                    "type": "water",
-                    "icon": "",
-                    "power": 40,
-                    "accuracy": 100
-                }
-            },
-            {
-                "bite": {
-                    "type": "dark",
-                    "icon": "",
-                    "power": 60,
-                    "accuracy": 100
-                }
-            },
-            {
-                "rapid spin": {
-                    "type": "normal",
-                    "icon": "",
-                    "power": 50,
-                    "accuracy": 100
-                }
-            },
-            {
-                "water pulse": {
-                    "type": "water",
-                    "icon": "",
-                    "power": 60,
-                    "accuracy": 100
-                }
-            },
-            {
-                "aqua tail": {
-                    "type": "water",
-                    "icon": "",
-                    "power": 90,
-                    "accuracy": 90
-                }
-            },
-            {
-                "hydro pump": {
-                    "type": "water",
-                    "icon": "",
-                    "power": 110,
-                    "accuracy": 80
-                }
-            },
-            {
-                "rain dance": {
-                    "type": "water",
-                    "icon": "",
-                    "power": "",
-                    "accuracy": 100
-                }
-            },
-            {
-                "skull bash": {
-                    "type": "normal",
-                    "icon": "",
-                    "power": 130,
-                    "accuracy": 100
-                }
-            }
+        "base_stats": [
+            { "stat": "hp", "normal": 44, "min": 198, "max": 292 },
+            { "stat": "attack", "normal": 48, "min": 90, "max": 214 },
+            { "stat": "defense", "normal": 65, "min": 121, "max": 251 },
+            { "stat": "sp_atk", "normal": 50, "min": 94, "max": 218 },
+            { "stat": "sp_def", "normal": 64, "min": 119, "max": 249 },
+            { "stat": "speed", "normal": 43, "min": 81, "max": 203 }
         ],
-        "evolution_chart": {
-            "evolution_levels": [16, 36],
-            "evolutionary_line": {
-                "squirtle": {
-                    "stage": 1,
-                    "serial_number": 7,
-                    "imgURL": "https://i.ibb.co/h1JVqP55/image.png",
-                    "type": ["water"]
-                },
-                "wartortle": {
-                    "stage": 2,
-                    "serial_number": 8,
-                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
-                    "type": ["water"]
-                },
-                "blastoise": {
-                    "stage": 3,
-                    "serial_number": 9,
-                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
-                    "type": ["water"]
-                }
-            }
-        },
-        "name_origin": {
-            "squirt": "to shoot or spout",
-            "tle": "a suffix for small animals or creatures"
-        },
         "training": {
             "catch_rate": 45,
             "catch_rate_percentage": "5.9% with PokéBall, full HP",
             "base_friendship": 50,
             "base_exp": 63,
             "growth_rate": "Medium Slow"
-        }
+        },
+        "battle_properties": {
+            "weaknesses": ["electric", "grass"],
+            "resistances": ["water", "fire", "ice", "steel"],
+            "immunities": []
+        },
+        "evolution_chart": {
+            "evolution_levels": [16, 36],
+            "evolutionary_line": [
+                { "name": "squirtle", "stage": 1, "serial_number": 7, "imgURL": "https://i.ibb.co/JW52VH20/image.png", "type": ["water"], "evolution_stone": null },
+                { "name": "wartortle", "stage": 2, "serial_number": 8, "imgURL": "https://i.ibb.co/Kpt4chy0/image.png", "type": ["water"], "evolution_stone": null },
+                { "name": "blastoise", "stage": 3, "serial_number": 9, "imgURL": "https://i.ibb.co/ZzM3rPvg/image.png", "type": ["water"], "evolution_stone": null }
+            ]
+        },
+        "attacks": [
+            { "name": "tackle", "type": "normal", "power": 40, "accuracy": 100, "level": 1, "icon": "⚔️" },
+            { "name": "tail whip", "type": "normal", "power": "", "accuracy": 100, "level": 3, "icon": "🐾" },
+            { "name": "bubble", "type": "water", "power": 40, "accuracy": 100, "level": 7, "icon": "💦" },
+            { "name": "withdraw", "type": "water", "power": "", "accuracy": "", "level": 9, "icon": "🛡️" },
+            { "name": "water gun", "type": "water", "power": 40, "accuracy": 100, "level": 12, "icon": "💦" },
+            { "name": "bite", "type": "dark", "power": 60, "accuracy": 100, "level": 16, "icon": "🦷" }
+        ],
+        "name_origin": [
+            { "word": "squirt", "meaning": "to spray liquid, referencing its water attacks" },
+            { "word": "turtle", "meaning": "a hard-shelled reptile, describing its appearance" }
+        ]
     }
 }
