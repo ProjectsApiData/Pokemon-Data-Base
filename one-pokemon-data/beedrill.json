@@ -1,177 +1,99 @@
 {
-   "beedrill": {
+    "beedrill": {
         "textContent": [
+            "Beedrill is an aggressive, wasp-like Pokémon with large stingers on its forelegs and abdomen. It is known for its speed, swarming behavior, and venomous attacks.",
+            "Beedrill is the final evolution of the Weedle line and is notorious for its powerful poison-based attacks and swift aerial maneuvers."
+        ],
+        "megaEvolution": [
             {
-                "text": "Beedrill is an insectoid Pokémon that resembles a large wasp. It has a yellow and black striped body, large wings, and sharp stingers on both its forelegs and its tail. Beedrill is known for its speed and aggression, often attacking any intruders that come near its nest."
-            },
-            {
-                "text": "Beedrill is the final evolution of Weedle and is a dual-type Bug/Poison Pokémon. It evolves from Kakuna at level 10. Beedrill is notable for its Mega Evolution, which makes it much more powerful in combat, with improved stats and a heightened ability to deal damage."
+                "name": "mega beedrill",
+                "imgUrl": "https://i.ibb.co/MegaBeedrill.png"
             }
         ],
-        "megaEvolution": ["mega beedrill"],
+        "shiny_variant": {
+            "description": "Shiny Beedrill has a bright green body instead of yellow, making it stand out from its regular counterpart.",
+            "sprite_url": "https://i.ibb.co/ShinyBeedrill.png"
+        },
         "pokedex_data": {
             "name": "beedrill",
             "serial_number": 15,
             "types": ["bug", "poison"],
-            "species": "poison bee Pokemon",
-            "height": {
-                "in_cm": 100,
-                "in_meter": "1.0m",
-                "in_foot": "3'03\""
-            },
-            "weight": {
-                "in_kg": 29.5,
-                "in_lbs": 65
-            },
+            "species": "poison bee pokemon",
+            "height": { "cm": 100, "meter": 1.0, "foot": "3'03\"" },
+            "weight": { "kg": 29.5, "lbs": 65.0 },
             "abilities": ["swarm", "sniper"]
         },
-        "base_stats": {
-            "hp": {
-                "normal": 65,
-                "minimum": 185,
-                "maximum": 279
+        "habitats": {
+            "region": {
+                "description": "Beedrill originates from the Kanto region and is commonly found in dense forests and wooded areas.",
+                "locations": {
+                    "general": [
+                        { "name": "Kanto", "description": "Original home region" },
+                        { "name": "Johto", "description": "A neighboring region with dense forests" },
+                        { "name": "Sinnoh", "description": "A region with a variety of bug Pokémon" }
+                    ],
+                    "special": []
+                }
             },
-            "attack": {
-                "normal": 90,
-                "minimum": 166,
-                "maximum": 306
+            "preferred_environment": {
+                "description": "Beedrill thrives in forests and meadows where it can find prey and defend its nest.",
+                "environment": [
+                    { "name": "Forests", "description": "Prefers dense forests for nesting" },
+                    { "name": "Meadows", "description": "Often seen flying in open fields" }
+                ]
             },
-            "defense": {
-                "normal": 40,
-                "minimum": 76,
-                "maximum": 164
-            },
-            "sp_atk": {
-                "normal": 45,
-                "minimum": 85,
-                "maximum": 175
-            },
-            "sp_def": {
-                "normal": 80,
-                "minimum": 148,
-                "maximum": 280
-            },
-            "speed": {
-                "normal": 75,
-                "minimum": 139,
-                "maximum": 271
+            "behavior": {
+                "description": "Beedrill is highly territorial and will aggressively defend its nest with its poisonous stingers.",
+                "traits": [
+                    { "name": "Aggressive", "description": "Will attack intruders without hesitation" },
+                    { "name": "Swarming", "description": "Beedrill often move in large groups" },
+                    { "name": "Protective", "description": "Defends its hive and fellow Beedrill fiercely" }
+                ]
             }
         },
-        "attacks": [
-            {
-                "poison sting": {
-                    "type": "poison",
-                    "icon": "",
-                    "power": 15,
-                    "accuracy": 100
-                }
-            },
-            {
-                "string shot": {
-                    "type": "bug",
-                    "icon": "",
-                    "power": "",
-                    "accuracy": 95
-                }
-            },
-            {
-                "tackle": {
-                    "type": "normal",
-                    "icon": "",
-                    "power": 40,
-                    "accuracy": 100
-                }
-            },
-            {
-                "focus energy": {
-                    "type": "normal",
-                    "icon": "",
-                    "power": "",
-                    "accuracy": 100
-                }
-            },
-            {
-                "bug bite": {
-                    "type": "bug",
-                    "icon": "",
-                    "power": 60,
-                    "accuracy": 100
-                }
-            },
-            {
-                "fury attack": {
-                    "type": "normal",
-                    "icon": "",
-                    "power": 15,
-                    "accuracy": 85
-                }
-            },
-            {
-                "twineedle": {
-                    "type": "bug",
-                    "icon": "",
-                    "power": 25,
-                    "accuracy": 100
-                }
-            },
-            {
-                "toxic spikes": {
-                    "type": "poison",
-                    "icon": "",
-                    "power": "",
-                    "accuracy": 100
-                }
-            },
-            {
-                "venom drench": {
-                    "type": "poison",
-                    "icon": "",
-                    "power": "",
-                    "accuracy": 100
-                }
-            },
-            {
-                "hyper beam": {
-                    "type": "normal",
-                    "icon": "",
-                    "power": 150,
-                    "accuracy": 90
-                }
-            }
+        "base_stats": [
+            { "stat": "hp", "normal": 65, "min": 250, "max": 344 },
+            { "stat": "attack", "normal": 90, "min": 166, "max": 306 },
+            { "stat": "defense", "normal": 40, "min": 76, "max": 196 },
+            { "stat": "sp_atk", "normal": 45, "min": 85, "max": 207 },
+            { "stat": "sp_def", "normal": 80, "min": 148, "max": 284 },
+            { "stat": "speed", "normal": 75, "min": 139, "max": 273 }
         ],
-        "evolution_chart": {
-            "evolution_levels": [10],
-            "evolutionary_line": {
-                "weedle": {
-                    "stage": 1,
-                    "serial_number": 13,
-                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
-                    "type": ["bug", "poison"]
-                },
-                "kakuna": {
-                    "stage": 2,
-                    "serial_number": 14,
-                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
-                    "type": ["bug", "poison"]
-                },
-                "beedrill": {
-                    "stage": 3,
-                    "serial_number": 15,
-                    "imgURL": "https://i.ibb.co/JW52VH20/image.png",
-                    "type": ["bug", "poison"]
-                }
-            }
-        },
-        "name_origin": {
-            "bee": "referring to a bee",
-            "drill": "referring to the sharp stingers it uses in battle"
-        },
         "training": {
             "catch_rate": 45,
             "catch_rate_percentage": "5.9% with PokéBall, full HP",
             "base_friendship": 50,
-            "base_exp": 160,
+            "base_exp": 178,
             "growth_rate": "Medium Fast"
-        }
+        },
+        "battle_properties": {
+            "weaknesses": ["fire", "flying", "psychic", "rock"],
+            "resistances": ["bug", "fighting", "grass", "poison"],
+            "immunities": []
+        },
+        "evolution_chart": {
+            "evolution_levels": [7, 10],
+            "evolutionary_line": [
+                { "name": "weedle", "stage": 1, "serial_number": 13, "imgURL": "https://i.ibb.co/JW52VH20/image.png", "type": ["bug", "poison"], "evolution_stone": null },
+                { "name": "kakuna", "stage": 2, "serial_number": 14, "imgURL": "https://i.ibb.co/Kpt4chy0/image.png", "type": ["bug", "poison"], "evolution_stone": null },
+                { "name": "beedrill", "stage": 3, "serial_number": 15, "imgURL": "https://i.ibb.co/ZzM3rPvg/image.png", "type": ["bug", "poison"], "evolution_stone": null }
+            ]
+        },
+        "attacks": [
+            { "name": "poison sting", "type": "poison", "power": 15, "accuracy": 100, "level": 1, "icon": "☠️" },
+            { "name": "string shot", "type": "bug", "power": "", "accuracy": 95, "level": 1, "icon": "🕸️" },
+            { "name": "harden", "type": "normal", "power": "", "accuracy": "", "level": 7, "icon": "🛡️" },
+            { "name": "fury attack", "type": "normal", "power": 15, "accuracy": 85, "level": 10, "icon": "🗡️" },
+            { "name": "twineedle", "type": "bug", "power": 25, "accuracy": 100, "level": 12, "icon": "🐝" },
+            { "name": "rage", "type": "normal", "power": 20, "accuracy": 100, "level": 16, "icon": "🔥" },
+            { "name": "focus energy", "type": "normal", "power": "", "accuracy": "", "level": 16, "icon": "🎯" },
+            { "name": "pursuit", "type": "dark", "power": 40, "accuracy": 100, "level": 19, "icon": "🌑" },
+            { "name": "venoshock", "type": "poison", "power": 65, "accuracy": 100, "level": 22, "icon": "☠️" },
+            { "name": "pin missile", "type": "bug", "power": 25, "accuracy": 95, "level": 25, "icon": "🐜" }
+        ],
+        "name_origin": [
+            { "word": "bee", "meaning": "referring to its wasp-like appearance" },
+            { "word": "drill", "meaning": "symbolizing its large stingers that resemble drills" }
+        ]
     }
 }
