@@ -65,7 +65,7 @@
         "evolution_chart": {
             "evolution_levels": [16, 36],
             "evolutionary_line": [
-                { "name": "charmander", "stage": 1, "serial_number": 4, "imgURL": "https://i.ibb.co/JW52VH20/image.png", "type": ["fire"], "evolution_stone": null },
+                { "name": "charmander", "stage": 1, "serial_number": 4, "imgURL": "https://i.ibb.co/BVD6fJgJ/image.png", "type": ["fire"], "evolution_stone": null },
                 { "name": "charmeleon", "stage": 2, "serial_number": 5, "imgURL": "https://i.ibb.co/Kpt4chy0/image.png", "type": ["fire"], "evolution_stone": null },
                 { "name": "charizard", "stage": 3, "serial_number": 6, "imgURL": "https://i.ibb.co/ZzM3rPvg/image.png", "type": ["fire", "flying"], "evolution_stone": null }
             ]
