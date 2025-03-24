@@ -448,5 +448,131 @@
         "type":["psychic"],
         "legendary":true,
         "shiny":false
+    },
+        {
+        "serial number": 387,
+        "imgURL": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/387.png",
+        "name": "turtwig",
+        "generation": 4,
+        "type": ["grass"],
+        "legendary": false,
+        "shiny": false
+    },
+    {
+        "serial number": 390,
+        "imgURL": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/390.png",
+        "name": "chimchar",
+        "generation": 4,
+        "type": ["fire"],
+        "legendary": false,
+        "shiny": false
+    },
+    {
+        "serial number": 393,
+        "imgURL": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/393.png",
+        "name": "piplup",
+        "generation": 4,
+        "type": ["water"],
+        "legendary": false,
+        "shiny": false
+    },
+    {
+        "serial number": 398,
+        "imgURL": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/398.png",
+        "name": "staraptor",
+        "generation": 4,
+        "type": ["normal", "flying"],
+        "legendary": false,
+        "shiny": false
+    },
+    {
+        "serial number": 400,
+        "imgURL": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/400.png",
+        "name": "bibarel",
+        "generation": 4,
+        "type": ["normal", "water"],
+        "legendary": false,
+        "shiny": false
+    },
+    {
+        "serial number": 402,
+        "imgURL": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/402.png",
+        "name": "kricketune",
+        "generation": 4,
+        "type": ["bug"],
+        "legendary": false,
+        "shiny": false
+    },
+    {
+        "serial number": 405,
+        "imgURL": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/405.png",
+        "name": "luxray",
+        "generation": 4,
+        "type": ["electric"],
+        "legendary": false,
+        "shiny": false
+    },
+    {
+        "serial number": 407,
+        "imgURL": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/407.png",
+        "name": "roserade",
+        "generation": 4,
+        "type": ["grass", "poison"],
+        "legendary": false,
+        "shiny": false
+    },
+    {
+        "serial number": 409,
+        "imgURL": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/409.png",
+        "name": "rampardos",
+        "generation": 4,
+        "type": ["rock"],
+        "legendary": false,
+        "shiny": false
+    },
+    {
+        "serial number": 411,
+        "imgURL": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/411.png",
+        "name": "bastiodon",
+        "generation": 4,
+        "type": ["rock", "steel"],
+        "legendary": false,
+        "shiny": false
+    },
+    {
+        "serial number": 423,
+        "imgURL": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/423.png",
+        "name": "gastrodon",
+        "generation": 4,
+        "type": ["water", "ground"],
+        "legendary": false,
+        "shiny": false
+    },
+    {
+        "serial number": 426,
+        "imgURL": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/426.png",
+        "name": "drifblim",
+        "generation": 4,
+        "type": ["ghost", "flying"],
+        "legendary": false,
+        "shiny": false
+    },
+    {
+        "serial number": 430,
+        "imgURL": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/430.png",
+        "name": "honchkrow",
+        "generation": 4,
+        "type": ["dark", "flying"],
+        "legendary": false,
+        "shiny": false
+    },
+    {
+        "serial number": 435,
+        "imgURL": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/435.png",
+        "name": "skuntank",
+        "generation": 4,
+        "type": ["poison", "dark"],
+        "legendary": false,
+        "shiny": false
     }
 ]
