@@ -66,7 +66,7 @@
         "evolution_chart": {
             "evolution_levels": [16, 36],
             "evolutionary_line": [
-                { "name": "squirtle", "stage": 1, "serial_number": 7, "imgURL": "https://i.ibb.co/h1JVqP55/image.png", "type": ["water"], "evolution_stone": null },
+                { "name": "squirtle", "stage": 1, "serial_number": 7, "imgURL": "https://i.ibb.co/fdMjzz61/image.png", "type": ["water"], "evolution_stone": null },
                 { "name": "wartortle", "stage": 2, "serial_number": 8, "imgURL": "https://i.ibb.co/ZRDPYhCK/image.png", "type": ["water"], "evolution_stone": null },
                 { "name": "blastoise", "stage": 3, "serial_number": 9, "imgURL": "https://i.ibb.co/gFt0W3rR/image.png", "type": ["water"], "evolution_stone": null }
             ]
