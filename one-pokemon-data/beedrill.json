@@ -74,9 +74,9 @@
         "evolution_chart": {
             "evolution_levels": [7, 10],
             "evolutionary_line": [
-                { "name": "weedle", "stage": 1, "serial_number": 13, "imgURL": "https://i.ibb.co/JW52VH20/image.png", "type": ["bug", "poison"], "evolution_stone": null },
-                { "name": "kakuna", "stage": 2, "serial_number": 14, "imgURL": "https://i.ibb.co/Kpt4chy0/image.png", "type": ["bug", "poison"], "evolution_stone": null },
-                { "name": "beedrill", "stage": 3, "serial_number": 15, "imgURL": "https://i.ibb.co/ZzM3rPvg/image.png", "type": ["bug", "poison"], "evolution_stone": null }
+                { "name": "weedle", "stage": 1, "serial_number": 13, "imgURL": "https://i.ibb.co/jZ6p6N58/Image.png", "type": ["bug", "poison"], "evolution_stone": null },
+                { "name": "kakuna", "stage": 2, "serial_number": 14, "imgURL": "https://i.ibb.co/4ZNmd0d9/Image.png", "type": ["bug", "poison"], "evolution_stone": null },
+                { "name": "beedrill", "stage": 3, "serial_number": 15, "imgURL": "https://i.ibb.co/x81sG2Lk/image.png", "type": ["bug", "poison"], "evolution_stone": null }
             ]
         },
         "attacks": [
