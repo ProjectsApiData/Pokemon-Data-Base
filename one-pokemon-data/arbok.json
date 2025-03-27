@@ -70,7 +70,7 @@
             "evolution_levels": [22],
             "evolutionary_line": [
                 { "name": "ekans", "stage": 1, "serial_number": 23, "imgURL": "https://i.ibb.co/JW52VH20/image.png", "type": ["poison"], "evolution_stone": null },
-                { "name": "arbok", "stage": 2, "serial_number": 24, "imgURL": "https://i.ibb.co/Kpt4chy0/image.png", "type": ["poison"], "evolution_stone": null }
+                { "name": "arbok", "stage": 2, "serial_number": 24, "imgURL": "https://i.ibb.co/5g9c95d5/image.png", "type": ["poison"], "evolution_stone": null }
             ]
         },
         "attacks": [
