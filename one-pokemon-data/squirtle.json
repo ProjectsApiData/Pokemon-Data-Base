@@ -68,7 +68,7 @@
             "evolutionary_line": [
                 { "name": "squirtle", "stage": 1, "serial_number": 7, "imgURL": "https://i.ibb.co/fdMjzz61/image.png", "type": ["water"], "evolution_stone": null },
                 { "name": "wartortle", "stage": 2, "serial_number": 8, "imgURL": "https://i.ibb.co/DDdPnPpc/image.png", "type": ["water"], "evolution_stone": null },
-                { "name": "blastoise", "stage": 3, "serial_number": 9, "imgURL": "https://i.ibb.co/gFt0W3rR/image.png", "type": ["water"], "evolution_stone": null }
+                { "name": "blastoise", "stage": 3, "serial_number": 9, "imgURL": "https://i.ibb.co/F4h9bVTB/Image.png", "type": ["water"], "evolution_stone": null }
             ]
         },
         "attacks": [
