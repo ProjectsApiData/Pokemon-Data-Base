@@ -73,7 +73,7 @@
     },
     {
         "serial number":56,
-        "imgURL":"https://i.ibb.co/JW52VH20/image.png",
+        "imgURL":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png",
         "name":"mankey",
         "generation":1,
         "type":["fighting"],
@@ -91,7 +91,7 @@
     },
     {
         "serial number":66,
-        "imgURL":"https://i.ibb.co/xSKxDvdv/image.png",
+        "imgURL":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png",
         "name":"machop",
         "generation":1,
         "type":["fighting"],
@@ -415,7 +415,7 @@
     },
     {
         "serial number":383,
-        "imgURL":"https://i.ibb.co/chtnYpy8/image.png",
+        "imgURL":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/383.png",
         "name":"groudon",
         "generation":3,
         "type":["ground"],
