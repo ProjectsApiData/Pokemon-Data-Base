@@ -215,6 +215,15 @@
         "legendary":true,
         "shiny":false
     },
+     {
+        "serial number":149,
+        "imgURL":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
+        "name":"dragonite",
+        "generation":1,
+        "type":["Dragon","flying"],
+        "legendary":false,
+        "shiny":false
+    },
     {
         "serial number":150,
         "imgURL":"https://i.ibb.co/99stG2fm/image.png",
@@ -288,6 +297,15 @@
         "shiny":false
     },
     {
+        "serial number":232,
+        "imgURL":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/232.png",
+        "name":"donphan",
+        "generation":2,
+        "type":["ground"],
+        "legendary":false,
+        "shiny":false
+    },
+    {
         "serial number":243,
         "imgURL":"https://i.ibb.co/cS9vJHMK/image.png",
         "name":"raikou",
@@ -303,6 +321,15 @@
         "generation":2,
         "type":["fire"],
         "legendary":true,
+        "shiny":false
+    },
+    {
+        "serial number":181,
+        "imgURL":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/181.png",
+        "name":"ampharos",
+        "generation":2,
+        "type":["electric"],
+        "legendary":false,
         "shiny":false
     },
     {
@@ -333,6 +360,15 @@
         "shiny":false
     },
     {
+        "serial number":286,
+        "imgURL":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/286.png",
+        "name":"breloom",
+        "generation":3,
+        "type":["grass","fighting"],
+        "legendary":false,
+        "shiny":false
+    },
+    {
         "serial number":336,
         "imgURL":"https://i.ibb.co/KcTysk7J/image.png",
         "name":"seviper",
@@ -356,6 +392,15 @@
         "name":"tropius",
         "generation":3,
         "type":["grass","flying"],
+        "legendary":false,
+        "shiny":false
+    },
+    {
+        "serial number":362,
+        "imgURL":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/362.png",
+        "name":"glalie",
+        "generation":3,
+        "type":["ice"],
         "legendary":false,
         "shiny":false
     },
