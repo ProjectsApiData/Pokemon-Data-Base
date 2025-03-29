@@ -463,7 +463,7 @@
         "imgURL":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/383.png",
         "name":"groudon",
         "generation":3,
-        "type":["ground"],
+        "type":["ground","fire"],
         "legendary":true,
         "shiny":false
     },
